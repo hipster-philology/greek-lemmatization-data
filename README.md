@@ -1,5 +1,11 @@
 # Greek Lemmatization and Morpho-Syntactic Data
 
+## Statistics
+
+- 1,068,131 tokens,
+	- including 115,412 punctuation signs
+- 56,133 different sentences
+
 ## Referentials
 
 Lemma are from the *Henry George Liddell, Robert Scott, A Greek-English Lexicon*
