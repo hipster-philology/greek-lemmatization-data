@@ -1,0 +1,15 @@
+[submodule "data/source/gorman-trees"]
+	path = data/source/gorman-trees
+	url = https://github.com/perseids-publications/gorman-trees.git
+[submodule "data/source/daphne-trees"]
+	path = data/source/daphne-trees
+	url = https://github.com/perseids-publications/daphne-trees.git
+[submodule "data/source/cst-trees"]
+	path = data/source/cst-trees
+	url = https://github.com/perseids-publications/cst-trees.git
+[submodule "data/source/treebank_data"]
+	path = data/source/treebank_data
+	url = https://github.com/PerseusDL/treebank_data
+[submodule "data/source/harrington-trees"]
+	path = data/source/harrington-trees
+	url = https://github.com/perseids-publications/harrington-trees.git
