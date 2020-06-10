@@ -1,5 +1,9 @@
 # Greek Lemmatization and Morpho-Syntactic Data
 
+## Referentials
+
+Lemma are from the *Henry George Liddell, Robert Scott, A Greek-English Lexicon*
+
 ## Script
 
 1. Run `build.py` to get the "simple" training data
@@ -12,6 +16,16 @@
 - "Pedalion Trees", Toon Van Hal et al., https://github.com/perseids-publications/cst-trees
 - "Perseus Treebank Data", G. Celano et al., https://github.com/PerseusDL/treebank_data
 - "Harrington Trees", J. Matthew Harrington, https://github.com/perseids-publications/harrington-trees.git
+
+### Sources to check
+
+Those are sources I do not know the status of (Gold ? Silver ? Bronze ? Wood ?)
+
+- https://github.com/ezhenrik/sematia-tb
+- https://github.com/DigitalHill/treebank-data
+- https://github.com/danielrruf/AristarchusTreebank-Lit
+- https://github.com/Drewlatimer/student-data
+- https://github.com/polinayordanova/Treebank-of-Aphtonius-Progymnasmata
 
 ## Licence
 
