@@ -1,5 +1,10 @@
 # Greek Lemmatization and Morpho-Syntactic Data
 
+## Script
+
+1. Run `build.py` to get the "simple" training data
+2. Run `build-normalized.py` to get nfd and nfc data
+
 ## Sources
 
 - "Gorman Trees", Vanessa Gorman, University of Nebraska-Lincoln, https://github.com/perseids-publications/gorman-trees, https://doi.org/10.5281/zenodo.3596009
