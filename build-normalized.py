@@ -5,6 +5,9 @@ import os
 os.makedirs("data/normalized-nfc", exist_ok=True)
 os.makedirs("data/normalized-nfd", exist_ok=True)
 
+
+
+		
 for file in glob.glob("data/output/*.tsv"):
 	basename = file.split("/")[-1]
 	out_nfd = open(f"data/normalized-nfd/{basename}", "w")

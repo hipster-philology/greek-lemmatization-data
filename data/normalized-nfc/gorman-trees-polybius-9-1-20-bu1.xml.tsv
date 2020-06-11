@@ -74,7 +74,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 εἰ	εἰ	9	c	-	-	-	-	-	-	-	-
 δὲ	δέ	10	c	-	-	-	-	-	-	-	-
 μή	μή	11	d	-	-	-	-	-	-	-	-
-γʼ	γε	12	d	-	-	-	-	-	-	-	-
+γ’	γε	12	d	-	-	-	-	-	-	-	-
 ,	,	13	u	-	-	-	-	-	-	-	-
 οἱ	ὁ	14	l	-	p	-	-	-	m	n	-
 πλείους	πλείων	15	a	-	p	-	-	-	m	n	c
@@ -119,7 +119,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καθά	καθά	24	c	-	-	-	-	-	-	-	-
 που	πού	25	d	-	-	-	-	-	-	-	-
 καὶ	καί	26	d	-	-	-	-	-	-	-	-
-παρʼ	παρά	27	r	-	-	-	-	-	-	-	-
+παρ’	παρά	27	r	-	-	-	-	-	-	-	-
 Ἐφόρῳ	Ἔφορος	28	n	-	s	-	-	-	m	d	-
 λέγεται	λέγω3	29	v	3	s	p	i	e	-	-	-
 ,	,	30	u	-	-	-	-	-	-	-	-
@@ -138,7 +138,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δυναστῶν	δυνάστης	43	n	-	p	-	-	-	m	g	-
 .	.	44	u	-	-	-	-	-	-	-	-
 
-ἐφʼ	ἐπί	1	r	-	-	-	-	-	-	-	-
+ἐφ’	ἐπί	1	r	-	-	-	-	-	-	-	-
 ὃν	ὅς	2	p	-	s	-	-	-	m	a	-
 ἡμεῖς	ἐγώ	3	p	1	p	-	-	-	m	n	-
 ψιλῶς	ψιλός	4	d	-	-	-	-	-	-	-	p
@@ -347,7 +347,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τοσοῦτον	τοσοῦτος	53	a	-	s	-	-	-	f	a	_
 προκοπὴν	προκοπή	54	n	-	s	-	-	-	f	a	-
 εἰληφέναι	λαμβάνω	55	v	-	-	r	n	a	-	-	-
-καθʼ	κατά	56	r	-	-	-	-	-	-	-	-
+καθ’	κατά	56	r	-	-	-	-	-	-	-	-
 ἡμᾶς	ἐγώ	57	p	1	p	-	-	-	m	a	-
 ὥστε	ὥστε	58	c	-	-	-	-	-	-	-	-
 πᾶν	πᾶς	59	a	-	s	-	-	-	n	a	-
@@ -468,8 +468,8 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 
 οὐ	οὐ	1	d	-	-	-	-	-	-	-	-
 μὴν	μήν	2	d	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	3	d	-	-	-	-	-	-	-	-
-οὐδʼ	οὐδέ	4	d	-	-	-	-	-	-	-	_
+ἀλλ’	ἀλλά	3	d	-	-	-	-	-	-	-	-
+οὐδ’	οὐδέ	4	d	-	-	-	-	-	-	-	_
 ὣς	ὡς	5	d	-	-	-	-	-	-	-	-
 ἐδύνατο	δύναμαι	6	v	3	s	i	i	e	-	-	-
 κινῆσαι	κινέω	7	v	-	-	a	n	a	-	-	-
@@ -523,7 +523,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὴν	ὁ	12	l	-	s	-	-	-	f	a	-
 πόλιν	πόλις	13	n	-	s	-	-	-	f	a	-
 δύνασθαι	δύναμαι	14	v	-	-	p	n	e	-	-	-
-μήτʼ	μήτʼ	15	c	-	-	-	-	-	-	-	-
+μήτ’	μήτ’	15	c	-	-	-	-	-	-	-	-
 ἐκκαλεῖσθαι	ἐκκαλέω	16	v	-	-	p	n	e	-	-	-
 τοὺς	ὁ	17	l	-	p	-	-	-	m	a	-
 Ῥωμαίους	Ῥωμαῖος	18	n	-	p	-	-	-	m	a	-
@@ -538,7 +538,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	27	u	-	-	-	-	-	-	-	-
 
 ἐμοὶ	ἐγώ	1	p	1	s	-	-	-	m	d	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 οὐ	οὐ	3	d	-	-	-	-	-	-	-	-
 μόνοις	μόνος	4	a	-	p	-	-	-	m	d	-
 ἂν	ἄν1	5	d	-	-	-	-	-	-	-	-
@@ -585,12 +585,12 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὑπεναντίοις	ὑπεναντίος	24	a	-	p	-	-	-	m	d	-
 ,	,	25	u	-	-	-	-	-	-	-	-
 ὅμως	ὅμως	26	d	-	-	-	-	-	-	-	-
-οὔτʼ	οὔτε	27	d	-	-	-	-	-	-	-	-
+οὔτ’	οὔτε	27	d	-	-	-	-	-	-	-	-
 εἴκειν	εἴκω	28	v	-	-	p	n	a	-	-	-
 οἷοί	οἷος	29	a	-	p	-	-	-	m	n	-
-τʼ	τε	30	d	-	-	-	-	-	-	-	-
+τ’	τε	30	d	-	-	-	-	-	-	-	-
 ἦσαν	εἰμί	31	v	3	p	i	i	a	-	-	-
-οὔτʼ	οὔτε	32	c	-	-	-	-	-	-	-	-
+οὔτ’	οὔτε	32	c	-	-	-	-	-	-	-	-
 ἐκχωρεῖν	ἐκχωρέω	33	v	-	-	p	n	a	-	-	-
 τῶν	ὁ	34	l	-	p	-	-	-	n	g	-
 ὑπαίθρων	ὕπαιθρος	35	n	-	p	-	-	-	n	g	-
@@ -633,16 +633,16 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	35	u	-	-	-	-	-	-	-	-
 πρὸς	πρός	36	r	-	-	-	-	-	-	-	-
 οὓς	ὅς	37	p	-	p	-	-	-	m	a	-
-οὐδʼ	οὐδέ	38	d	-	-	-	-	-	-	-	_
+οὐδ’	οὐδέ	38	d	-	-	-	-	-	-	-	_
 ἐπινοήσαντες	ἐπινοέω	39	v	-	p	a	p	a	m	n	-
 οἷοί	οἷος	40	a	-	p	-	-	-	m	n	-
-τʼ	τε	41	d	-	-	-	-	-	-	-	-
+τ’	τε	41	d	-	-	-	-	-	-	-	-
 ἦσαν	εἰμί	42	v	3	p	i	i	a	-	-	-
 ἀντοφθαλμεῖν	ἀντοφθαλμέω	43	v	-	-	p	n	a	-	-	-
 ·	·	44	u	-	-	-	-	-	-	-	-
 
 Καρχηδόνιοί	Καρχηδόνιος	1	n	-	p	-	-	-	m	n	-
-τʼ	τε	2	d	-	-	-	-	-	-	-	-
+τ’	τε	2	d	-	-	-	-	-	-	-	-
 ,	,	3	u	-	-	-	-	-	-	-	-
 ἀδιαλείπτως	ἀδιάλειπτος	4	d	-	-	-	-	-	-	-	p
 νικῶντες	νικάω	5	v	-	p	p	p	a	m	n	-
@@ -669,12 +669,12 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 προαιρέσεως	προαίρεσις	9	n	-	s	-	-	-	f	g	-
 ,	,	10	u	-	-	-	-	-	-	-	-
 τὸ	ὁ	11	l	-	s	-	-	-	n	n	-
-παρʼ	παρά	12	r	-	-	-	-	-	-	-	-
+παρ’	παρά	12	r	-	-	-	-	-	-	-	-
 ἀμφοῖν	ἄμφω	13	a	-	d	-	-	-	m	g	-
 συντεθεωρῆσθαι	συνθεωρέω	14	v	-	-	r	n	e	-	-	-
 διότι	διότι	15	c	-	-	-	-	-	-	-	-
 τὸ	ὁ	16	l	-	s	-	-	-	n	n	-
-παρʼ	παρά	17	r	-	-	-	-	-	-	-	-
+παρ’	παρά	17	r	-	-	-	-	-	-	-	-
 Ἀννίβου	Ἀννίβας	18	n	-	s	-	-	-	m	g	-
 σύνταγμα	σύνταγμα	19	n	-	s	-	-	-	n	n	-
 τῶν	ὁ	20	l	-	p	-	-	-	m	g	-
@@ -732,7 +732,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὴν	ὁ	4	l	-	s	-	-	-	f	a	-
 Καπύην	Καπύη	5	n	-	s	-	-	-	f	a	-
 τότε	τότε	6	d	-	-	-	-	-	-	-	-
-συμβαίνοντʼ	συμβαίνω	7	v	-	p	p	p	a	n	n	_
+συμβαίνοντ’	συμβαίνω	7	v	-	p	p	p	a	n	n	_
 εἰκότως	εἰκότως	8	d	-	-	-	-	-	-	-	-
 ἑκατέροις	ἑκάτερος	9	a	-	p	-	-	-	m	d	-
 ἀπήντα	ἀπαντάω	10	v	3	s	i	i	a	-	-	-
@@ -758,7 +758,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἱππεῖς	ἱππεύς	18	n	-	p	-	-	-	m	a	-
 ,	,	19	u	-	-	-	-	-	-	-	-
 ἔμενε	μένω	20	v	3	s	i	i	a	-	-	-
-δʼ	δέ	21	c	-	-	-	-	-	-	-	-
+δ’	δέ	21	c	-	-	-	-	-	-	-	-
 ἐν	ἐν	22	r	-	-	-	-	-	-	-	-
 τῇ	ὁ	23	l	-	s	-	-	-	f	d	-
 παρεμβολῇ	παρεμβολή	24	n	-	s	-	-	-	f	d	-
@@ -772,7 +772,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 αὐτοῖς	αὐτός	32	p	-	p	-	-	-	m	d	-
 ἐσομένην	εἰμί	33	v	-	s	f	p	m	f	a	-
 ,	,	34	u	-	-	-	-	-	-	-	-
-ὑφʼ	ὑπό	35	r	-	-	-	-	-	-	-	-
+ὑφ’	ὑπό	35	r	-	-	-	-	-	-	-	-
 ἧς	ὅς	36	p	-	s	-	-	-	f	g	-
 ἐν	εἰς	37	r	-	-	-	-	-	-	-	-
 ταῖς	ὁ	38	l	-	p	-	-	-	f	d	-
@@ -823,7 +823,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἵππῳ	ἵππος	41	n	-	s	-	-	-	f	d	-
 ,	,	42	u	-	-	-	-	-	-	-	-
 τοσούτοις	τοσοῦτος	43	a	-	p	-	-	-	n	d	_
-δʼ	δέ	44	c	-	-	-	-	-	-	-	-
+δ’	δέ	44	c	-	-	-	-	-	-	-	-
 ὑποζυγίοις	ὑποζύγιον	45	n	-	p	-	-	-	n	d	-
 κατανύσαι	κατανύω	46	v	-	-	a	n	a	-	-	-
 χόρτον	χόρτος	47	n	-	s	-	-	-	m	a	-
@@ -908,7 +908,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὴν	ὁ	14	l	-	s	-	-	-	f	a	-
 πολιορκίαν	πολιορκία	15	n	-	s	-	-	-	f	a	-
 ,	,	16	u	-	-	-	-	-	-	-	-
-ἐπʼ	ἐπί	17	r	-	-	-	-	-	-	-	-
+ἐπ’	ἐπί	17	r	-	-	-	-	-	-	-	-
 ἄλλης	ἄλλος	18	a	-	s	-	-	-	f	g	_
 ἐγένετο	γίγνομαι	19	v	3	s	a	i	m	-	-	-
 γνώμης	γνώμη	20	n	-	s	-	-	-	f	g	-
@@ -1065,7 +1065,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	26	u	-	-	-	-	-	-	-	-
 
 τοῖς	ὁ	1	l	-	p	-	-	-	m	d	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἐν	ἐν	3	r	-	-	-	-	-	-	-	-
 Ῥώμῃ	Ῥώμη	4	n	-	s	-	-	-	f	d	-
 προσπεπτωκότων	προσπίτνω	5	v	-	p	r	p	a	n	g	-
@@ -1362,7 +1362,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 διανοουμένων	διανοέομαι	9	v	-	p	p	p	e	f	g	-
 τῇ	ὁ	10	l	-	s	-	-	-	f	d	-
 μετὰ	μετά	11	r	-	-	-	-	-	-	-	-
-ταῦθʼ	οὗτος	12	p	-	s	-	-	-	n	a	-
+ταῦθ’	οὗτος	12	p	-	s	-	-	-	n	a	-
 ἡμέρᾳ	ἡμέρα	13	n	-	s	-	-	-	f	d	-
 καταπειράζειν	καταπειράζω	14	v	-	-	p	n	a	-	-	-
 αὐτῆς	αὐτός	15	a	-	s	-	-	-	f	g	_
@@ -1413,7 +1413,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 Ῥώμην	Ῥώμη	30	n	-	s	-	-	-	f	a	-
 ,	,	31	u	-	-	-	-	-	-	-	-
 τοῦ	ὁ	32	l	-	s	-	-	-	n	g	-
-δʼ	δέ	33	c	-	-	-	-	-	-	-	-
+δ’	δέ	33	c	-	-	-	-	-	-	-	-
 ἑτέρου	ἕτερος	34	a	-	s	-	-	-	n	g	-
 τότε	τότε	35	d	-	-	-	-	-	-	-	-
 τὰς	ὁ	36	l	-	p	-	-	-	f	a	-
@@ -1784,7 +1784,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	41	u	-	-	-	-	-	-	-	-
 
 τῆς	ὁ	1	l	-	s	-	-	-	f	g	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἡμέρας	ἡμέρα	3	n	-	s	-	-	-	f	g	-
 ἐπιγενομένης	ἐπιγίγνομαι	4	v	-	s	a	p	m	f	g	-
 συνθεωρήσας	συνθεωρέω	5	v	-	s	a	p	a	m	n	-
@@ -1822,7 +1822,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἀνυπόπτως	ἀνύποπτος	37	d	-	-	-	-	-	-	-	_
 ,	,	38	u	-	-	-	-	-	-	-	-
 ὥστε	ὥστε	39	c	-	-	-	-	-	-	-	-
-παρʼ	παρά	40	r	-	-	-	-	-	-	-	-
+παρ’	παρά	40	r	-	-	-	-	-	-	-	-
 ὀλίγον	ὀλίγος	41	a	-	s	-	-	-	n	a	-
 μὲν	μέν	42	d	-	-	-	-	-	-	-	-
 καὶ	καί	43	d	-	-	-	-	-	-	-	-
@@ -1915,7 +1915,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δειπνοποιήσασθαι	δειπνοποιέω	40	v	-	-	a	n	m	-	-	-
 τοῖς	ὁ	41	l	-	p	-	-	-	m	d	-
 αὑτοῦ	ἑαυτοῦ	42	p	-	s	-	-	-	m	g	-
-καθʼ	κατά	43	r	-	-	-	-	-	-	-	-
+καθ’	κατά	43	r	-	-	-	-	-	-	-	-
 ὥραν	ὥρα	44	n	-	s	-	-	-	f	a	-
 παραγγείλας	παραγγέλλω	45	v	-	s	a	p	a	m	n	-
 ἐξῆγε	ἐξάγω	46	v	3	s	i	i	a	-	-	-
@@ -1947,7 +1947,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ποιούμενος	ποιόω	72	v	-	s	p	p	e	m	n	-
 τὴν	ὁ	73	l	-	s	-	-	-	f	a	-
 πορείαν	πορεία	74	n	-	s	-	-	-	f	a	-
-ἐπʼ	ἐπί	75	r	-	-	-	-	-	-	-	-
+ἐπ’	ἐπί	75	r	-	-	-	-	-	-	-	-
 αὐτὴν	αὐτός	76	a	-	s	-	-	-	f	a	_
 τὴν	ὁ	77	l	-	s	-	-	-	f	a	-
 Λακεδαίμονα	Λακεδαίμων	78	n	-	s	-	-	-	f	a	-
@@ -2095,7 +2095,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	24	u	-	-	-	-	-	-	-	-
 
 οἱ	ὁ	1	l	-	p	-	-	-	m	n	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 Ἀθηναῖοι	Ἀθηναῖος	3	n	-	p	-	-	-	m	n	-
 κατὰ	κατά	4	r	-	-	-	-	-	-	-	-
 τὸν	ὁ	5	l	-	s	-	-	-	m	a	-
@@ -2216,7 +2216,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καὶ	καί	7	d	-	-	-	-	-	-	-	-
 περὶ	περί	8	r	-	-	-	-	-	-	-	-
 τῶν	ὁ	9	l	-	p	-	-	-	n	g	-
-κατʼ	κατά	10	r	-	-	-	-	-	-	-	-
+κατ’	κατά	10	r	-	-	-	-	-	-	-	-
 Ἀννίβαν	Ἀννίβας	11	n	-	s	-	-	-	m	a	-
 .	.	12	u	-	-	-	-	-	-	-	-
 
@@ -2242,7 +2242,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἀποπεσόντα	ἀποπίπτω	20	v	-	s	a	p	a	m	a	-
 τῆς	ὁ	21	l	-	s	-	-	-	f	g	-
 προσβολῆς	προσβολή	22	n	-	s	-	-	-	f	g	-
-ἐπʼ	ἐπί	23	r	-	-	-	-	-	-	-	-
+ἐπ’	ἐπί	23	r	-	-	-	-	-	-	-	-
 αὐτὴν	αὐτός	24	a	-	s	-	-	-	f	a	_
 ὁρμῆσαι	ὁρμάω	25	v	-	-	a	n	a	-	-	-
 τὴν	ὁ	26	l	-	s	-	-	-	f	a	-
@@ -2300,7 +2300,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	78	u	-	-	-	-	-	-	-	-
 μόνον	μόνος	79	a	-	s	-	-	-	n	a	-
 οὐ	οὐ	80	d	-	-	-	-	-	-	-	-
-δʼ	δέ	81	c	-	-	-	-	-	-	-	-
+δ’	δέ	81	c	-	-	-	-	-	-	-	-
 ἀναστάτους	ἀνάστατος	82	a	-	p	-	-	-	m	a	-
 ποιῆσαι	ποιέω	83	v	-	-	a	n	a	-	-	-
 Ῥηγίνους	Ῥηγῖνος	84	n	-	p	-	-	-	m	a	-
@@ -2348,7 +2348,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δὲ	δέ	14	c	-	-	-	-	-	-	-	-
 Μαντίνειαν	Μαντίνεια	15	n	-	s	-	-	-	f	a	-
 τὸ	ὁ	16	l	-	s	-	-	-	n	a	-
-καθʼ	κατά	17	r	-	-	-	-	-	-	-	-
+καθ’	κατά	17	r	-	-	-	-	-	-	-	-
 αὑτοὺς	ἑαυτοῦ	18	p	-	p	-	-	-	m	a	-
 μέρος	μέρος	19	n	-	s	-	-	-	n	a	-
 ἀπέβαλον	ἀποβάλλω	20	v	3	p	a	i	a	-	-	-
@@ -2366,7 +2366,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὐκ	οὐ	10	d	-	-	-	-	-	-	-	-
 ἔλυσαν	λύω	11	v	3	p	a	i	a	-	-	-
 ,	,	12	u	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	13	c	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	13	c	-	-	-	-	-	-	-	-
 ἔμειναν	μένω	14	v	3	p	a	i	a	-	-	-
 ἀσαλεύτως	ἀσάλευτος	15	d	-	-	-	-	-	-	-	p
 καὶ	καί	16	c	-	-	-	-	-	-	-	-
@@ -2410,7 +2410,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 πλεῖον	πλείων	24	a	-	s	-	-	-	n	a	c
 τῶν	ὁ	25	l	-	p	-	-	-	m	g	-
 ἡγουμένων	ἡγέομαι	26	v	-	p	p	p	m	m	g	-
-παρʼ	παρά	27	r	-	-	-	-	-	-	-	-
+παρ’	παρά	27	r	-	-	-	-	-	-	-	-
 ἀμφοτέροις	ἀμφότερος	28	a	-	p	-	-	-	m	d	-
 καὶ	καί	29	c	-	-	-	-	-	-	-	-
 τῶν	ὁ	30	l	-	p	-	-	-	m	g	-
@@ -2418,7 +2418,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ταῦτα	οὗτος	32	p	-	p	-	-	-	n	a	-
 μελλόντων	μέλλω	33	v	-	p	p	p	a	m	g	-
 χειρίζειν	χειρίζω	34	v	-	-	p	n	a	-	-	-
-παρʼ	παρά	35	r	-	-	-	-	-	-	-	-
+παρ’	παρά	35	r	-	-	-	-	-	-	-	-
 ἑκάστοις	ἕκαστος	36	a	-	p	-	-	-	m	d	-
 τὰς	ὁ	37	l	-	p	-	-	-	f	a	-
 κοινὰς	κοινός	38	a	-	p	-	-	-	f	a	-
@@ -2430,7 +2430,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἀναμιμνησκόμενοι	ἀναμιμνήσκω	44	v	-	p	p	p	e	m	n	-
 ,	,	45	u	-	-	-	-	-	-	-	-
 τὰ	ὁ	46	l	-	p	-	-	-	n	a	-
-δʼ	δέ	47	c	-	-	-	-	-	-	-	-
+δ’	δέ	47	c	-	-	-	-	-	-	-	-
 ὑπὸ	ὑπό	48	r	-	-	-	-	-	-	-	-
 τὴν	ὁ	49	l	-	s	-	-	-	f	a	-
 ὄψιν	ὄψις	50	n	-	s	-	-	-	f	a	-
@@ -2550,7 +2550,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μεγάλων	μέγας	9	a	-	p	-	-	-	f	g	-
 ,	,	10	u	-	-	-	-	-	-	-	-
 ὕστερον	ὕστερος	11	a	-	s	-	-	-	n	a	-
-μεθʼ	μετά	12	r	-	-	-	-	-	-	-	-
+μεθ’	μετά	12	r	-	-	-	-	-	-	-	-
 ἱκετηρίας	ἱκετηρία	13	n	-	p	-	-	-	f	a	-
 τῶν	ὁ	14	l	-	p	-	-	-	m	g	-
 ἔνδον	ἔνδον	15	d	-	-	-	-	-	-	-	-
@@ -2565,7 +2565,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 κοσμεῖται	κοσμέω	5	v	3	s	p	i	e	-	-	-
 πόλις	πόλις	6	n	-	p	-	-	-	f	a	-
 ,	,	7	u	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	8	c	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	8	c	-	-	-	-	-	-	-	-
 ἐκ	ἐκ	9	r	-	-	-	-	-	-	-	-
 τῆς	ὁ	10	l	-	s	-	-	-	f	g	-
 τῶν	ὁ	11	l	-	p	-	-	-	m	g	-
@@ -2593,7 +2593,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	18	u	-	-	-	-	-	-	-	-
 
 πότερα	πότερος	1	a	-	p	-	-	-	n	a	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ὀρθῶς	ὀρθός	3	d	-	-	-	-	-	-	-	-
 τοῦτο	οὗτος	4	p	-	s	-	-	-	n	a	-
 καὶ	καί	5	c	-	-	-	-	-	-	-	-
@@ -2618,7 +2618,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δεόντως	δεόντως	24	d	-	-	-	-	-	-	-	-
 σφίσι	σφεῖς	25	p	-	p	-	-	-	m	d	-
 πεπρᾶχθαι	πράσσω	26	v	-	-	r	n	e	-	-	-
-μηδʼ	μηδʼ	27	c	-	-	-	-	-	-	-	-
+μηδ’	μηδ’	27	c	-	-	-	-	-	-	-	-
 ἀκμὴν	ἀκμή	28	d	-	-	-	-	-	-	-	-
 νῦν	νῦν	29	d	-	-	-	-	-	-	-	-
 πράττεσθαι	πράσσω	30	v	-	-	p	n	e	-	-	-
@@ -2646,13 +2646,13 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὴν	ὁ	17	l	-	s	-	-	-	f	a	-
 οἰκείαν	οἰκεῖος	18	a	-	s	-	-	-	f	a	-
 ,	,	19	u	-	-	-	-	-	-	-	-
-διʼ	διά	20	r	-	-	-	-	-	-	-	-
+δι’	διά	20	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	21	p	-	p	-	-	-	n	g	-
 ηὐξήθησαν	αὐξάνω	22	v	3	p	a	i	p	-	-	-
 .	.	23	u	-	-	-	-	-	-	-	-
 
 εἰ	εἰ	1	c	-	-	-	-	-	-	-	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἁπλουστάτοις	ἁπλόος	3	a	-	p	-	-	-	m	d	-
 χρώμενοι	χράομαι	4	v	-	p	p	p	e	m	n	-
 βίοις	βίος	5	n	-	p	-	-	-	m	d	-
@@ -2669,7 +2669,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐπεκράτουν	ἐπικρατέω	16	v	3	p	i	i	a	-	-	-
 τούτων	οὗτος	17	p	-	p	-	-	-	m	g	-
 αἰεὶ	ἀεί	18	d	-	-	-	-	-	-	-	-
-παρʼ	παρά	19	r	-	-	-	-	-	-	-	-
+παρ’	παρά	19	r	-	-	-	-	-	-	-	-
 οἷς	ὅς	20	p	-	p	-	-	-	m	d	-
 ὑπῆρχε	ὑπάρχω	21	v	3	s	r	i	a	-	-	-
 πλεῖστα	πλεῖστος	22	a	-	p	-	-	-	n	n	-
@@ -2684,7 +2684,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 εἶναι	εἰμί	31	v	-	-	p	n	a	-	-	-
 τὸ	ὁ	32	l	-	s	-	-	-	n	a	-
 γινόμενον	γίγνομαι	33	v	-	s	p	p	e	n	a	-
-ὑπʼ	ὑπό	34	r	-	-	-	-	-	-	-	-
+ὑπ’	ὑπό	34	r	-	-	-	-	-	-	-	-
 αὐτῶν	αὐτός	35	p	-	p	-	-	-	m	g	-
 ἁμάρτημα	ἁμάρτημα	36	n	-	s	-	-	-	n	a	-
 ;	;	37	u	-	-	-	-	-	-	-	-
@@ -2813,7 +2813,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μόνον	μόνος	4	a	-	s	-	-	-	n	a	-
 φθόνος	φθόνος	5	n	-	s	-	-	-	m	n	-
 ,	,	6	u	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	7	c	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	7	c	-	-	-	-	-	-	-	-
 οἷον	οἷος	8	a	-	s	-	-	-	n	a	-
 ὀργή	ὀργή	9	n	-	s	-	-	-	f	n	-
 τις	τις	10	a	-	s	-	-	-	f	n	_
@@ -2885,7 +2885,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	23	u	-	-	-	-	-	-	-	-
 
 τὰ	ὁ	1	l	-	p	-	-	-	n	a	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἐκτὸς	ἐκτός	3	d	-	-	-	-	-	-	-	-
 ὑπάρχοντα	ὑπάρχω	4	v	-	p	p	p	a	n	a	-
 τῆς	ὁ	5	l	-	s	-	-	-	f	g	-
@@ -3028,7 +3028,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὸν	ὁ	15	l	-	s	-	-	-	m	a	-
 πιστότατον	πιστός2	16	a	-	s	-	-	-	m	a	s
 τῶν	ὁ	17	l	-	p	-	-	-	m	g	-
-κατʼ	κατά	18	r	-	-	-	-	-	-	-	-
+κατ’	κατά	18	r	-	-	-	-	-	-	-	-
 Ἰβηρίαν	Ἰβηρία	19	n	-	s	-	-	-	f	a	-
 φίλων	φίλος	20	n	-	p	-	-	-	m	g	-
 Ἀνδοβάλην	Ἀνδοβάλης	21	n	-	s	-	-	-	m	a	-
@@ -3100,7 +3100,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὸ	ὁ	13	l	-	s	-	-	-	n	a	-
 μεγάλην	μέγας	14	a	-	s	-	-	-	f	a	-
 εἶναι	εἰμί	15	v	-	-	p	n	a	-	-	-
-παρʼ	παρά	16	r	-	-	-	-	-	-	-	-
+παρ’	παρά	16	r	-	-	-	-	-	-	-	-
 αὐτοῖς	αὐτός	17	p	-	p	-	-	-	m	d	-
 σπάνιν	σπάνις	18	n	-	s	-	-	-	f	a	-
 ,	,	19	u	-	-	-	-	-	-	-	-
@@ -3143,7 +3143,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	56	u	-	-	-	-	-	-	-	-
 πλὴν	πλήν	57	r	-	-	-	-	-	-	-	-
 τῶν	ὁ	58	l	-	p	-	-	-	m	g	-
-κατʼ	κατά	59	r	-	-	-	-	-	-	-	-
+κατ’	κατά	59	r	-	-	-	-	-	-	-	-
 Αἴγυπτον	Αἴγυπτος	60	n	-	s	-	-	-	f	a	-
 τόπων	τόπος	61	n	-	p	-	-	-	m	g	-
 .	.	62	u	-	-	-	-	-	-	-	-
@@ -3167,7 +3167,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὑπάρχειν	ὑπάρχω	17	v	-	-	p	n	a	-	-	-
 .	.	18	u	-	-	-	-	-	-	-	-
 
-ἀλλʼ	ἀλλά	1	d	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	1	d	-	-	-	-	-	-	-	-
 ὅμως	ὅμως	2	d	-	-	-	-	-	-	-	-
 τοιαύτης	τοιοῦτος	3	a	-	s	-	-	-	f	g	_
 οὔσης	εἰμί	4	v	-	s	p	p	a	f	g	-
@@ -3286,7 +3286,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	16	u	-	-	-	-	-	-	-	-
 οὐδεὶς	οὐδείς	17	p	-	s	-	-	-	m	n	-
 ἂν	ἄν1	18	d	-	-	-	-	-	-	-	-
-τοῦτʼ	οὗτος	19	p	-	s	-	-	-	n	a	-
+τοῦτ’	οὗτος	19	p	-	s	-	-	-	n	a	-
 ἀπορήσειε	ἀπορέω	20	v	3	s	a	o	a	-	-	-
 .	.	21	u	-	-	-	-	-	-	-	-
 
@@ -3329,7 +3329,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὐκ	οὐ	4	d	-	-	-	-	-	-	-	-
 ἔχοντα	ἔχω	5	v	-	p	p	p	a	n	n	-
 μεθοδικὸν	μεθοδικός	6	a	-	s	-	-	-	n	a	-
-οὐδʼ	οὐδʼ	7	c	-	-	-	-	-	-	-	-
+οὐδ’	οὐδ’	7	c	-	-	-	-	-	-	-	-
 ἑστῶτα	ἵστημι	8	v	-	p	r	p	a	n	a	-
 παραλειπέσθω	παραλείπω	9	v	3	s	p	m	e	-	-	-
 ·	·	10	u	-	-	-	-	-	-	-	-
@@ -3374,10 +3374,10 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἔτι	ἔτι	20	d	-	-	-	-	-	-	-	-
 δὲ	δέ	21	c	-	-	-	-	-	-	-	-
 καὶ	καί	22	d	-	-	-	-	-	-	-	-
-διʼ	διά	23	r	-	-	-	-	-	-	-	-
+δι’	διά	23	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	24	p	-	p	-	-	-	n	g	-
 καὶ	καί	25	d	-	-	-	-	-	-	-	-
-μεθʼ	μετά	26	r	-	-	-	-	-	-	-	-
+μεθ’	μετά	26	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	27	p	-	p	-	-	-	n	g	-
 καὶ	καί	28	c	-	-	-	-	-	-	-	-
 τίνι	τις	29	a	-	s	-	-	-	m	d	_
@@ -3397,7 +3397,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐπιβολῆς	ἐπιβολή	43	n	-	s	-	-	-	f	g	-
 ,	,	44	u	-	-	-	-	-	-	-	-
 ὁ	ὁ	45	l	-	s	-	-	-	m	n	-
-δʼ	δέ	46	c	-	-	-	-	-	-	-	-
+δ’	δέ	46	c	-	-	-	-	-	-	-	-
 ἑνὸς	εἷς	47	n	-	s	-	-	-	n	g	-
 ὀλιγωρήσας	ὀλιγωρέω	48	v	-	s	a	p	a	m	n	-
 σφαλήσεται	σφάλλω	49	v	3	s	f	i	p	-	-	-
@@ -3447,7 +3447,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	11	u	-	-	-	-	-	-	-	-
 
 ἔστι	εἰμί	1	v	3	s	p	i	a	-	-	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἀρχὴ	ἀρχή	3	n	-	s	-	-	-	f	n	-
 μὲν	μέν	4	d	-	-	-	-	-	-	-	-
 τῶν	ὁ	5	l	-	p	-	-	-	n	g	-
@@ -3501,7 +3501,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μὴ	μή	53	d	-	-	-	-	-	-	-	-
 πρότερον	πρότερος	54	a	-	s	-	-	-	n	a	-
 ,	,	55	u	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	56	c	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	56	c	-	-	-	-	-	-	-	-
 ὅταν	ὅταν	57	c	-	-	-	-	-	-	-	-
 ὁ	ὁ	58	l	-	s	-	-	-	m	n	-
 τῆς	ὁ	59	l	-	s	-	-	-	f	g	-
@@ -3534,7 +3534,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 λόγους	λόγος	6	n	-	p	-	-	-	m	a	-
 ποτὲ	ποτέ	7	d	-	-	-	-	-	-	-	-
 μὲν	μέν	8	d	-	-	-	-	-	-	-	-
-διʼ	διά	9	r	-	-	-	-	-	-	-	-
+δι’	διά	9	r	-	-	-	-	-	-	-	-
 αὐτῆς	αὐτός	10	a	-	s	-	-	-	f	g	_
 τῆς	ὁ	11	l	-	s	-	-	-	f	g	-
 ἐπιφάσεως	ἐπίφασις	12	n	-	s	-	-	-	f	g	-
@@ -3553,7 +3553,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	25	u	-	-	-	-	-	-	-	-
 
 δεύτερον	δεύτερος	1	a	-	s	-	-	-	n	a	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἐπεγνωκέναι	ἐπιγιγνώσκω	3	v	-	-	r	n	a	-	-	-
 τὰς	ὁ	4	l	-	p	-	-	-	f	a	-
 ἡμερησίους	ἡμερήσιος	5	a	-	p	-	-	-	m	a	-
@@ -3615,7 +3615,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὰ	ὁ	17	l	-	p	-	-	-	n	n	-
 μὲν	μέν	18	d	-	-	-	-	-	-	-	-
 ἀδύνατα	ἀδύνατος	19	a	-	p	-	-	-	n	n	-
-δοκοῦντʼ	δοκέω	20	v	3	p	p	p	a	n	n	_
+δοκοῦντ’	δοκέω	20	v	3	p	p	p	a	n	n	_
 εἶναι	εἰμί	21	v	-	-	p	n	a	-	-	-
 δυνατά	δυνατός	22	a	-	p	-	-	-	n	n	-
 ,	,	23	u	-	-	-	-	-	-	-	-
@@ -3638,10 +3638,10 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τῆς	ὁ	10	l	-	s	-	-	-	f	g	-
 ἐκλογῆς	ἐκλογή	11	n	-	s	-	-	-	f	g	-
 ,	,	12	u	-	-	-	-	-	-	-	-
-διʼ	διά	13	r	-	-	-	-	-	-	-	-
+δι’	διά	13	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	14	p	-	p	-	-	-	n	g	-
 καὶ	καί	15	c	-	-	-	-	-	-	-	-
-μεθʼ	μετά	16	r	-	-	-	-	-	-	-	-
+μεθ’	μετά	16	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	17	p	-	p	-	-	-	n	g	-
 ἐνεργηθήσεται	ἐνεργέω	18	v	3	s	f	i	p	-	-	-
 τὸ	ὁ	19	l	-	s	-	-	-	n	n	-
@@ -3660,13 +3660,13 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τριβῆς	τριβή	7	n	-	s	-	-	-	f	g	-
 ,	,	8	u	-	-	-	-	-	-	-	-
 τὰ	ὁ	9	l	-	p	-	-	-	n	n	-
-δʼ	δέ	10	d	-	-	-	-	-	-	-	-
+δ’	δέ	10	d	-	-	-	-	-	-	-	-
 ἐξ	ἐκ	11	r	-	-	-	-	-	-	-	-
 ἱστορίας	ἱστορία	12	n	-	s	-	-	-	f	g	-
 ,	,	13	u	-	-	-	-	-	-	-	-
 τὰ	ὁ	14	l	-	p	-	-	-	n	n	-
 δὲ	δέ	15	c	-	-	-	-	-	-	-	-
-κατʼ	κατά	16	r	-	-	-	-	-	-	-	-
+κατ’	κατά	16	r	-	-	-	-	-	-	-	-
 ἐμπειρίαν	ἐμπειρία	17	n	-	s	-	-	-	f	a	-
 μεθοδικὴν	μεθοδικός	18	a	-	s	-	-	-	f	a	-
 θεωρεῖται	θεωρέω	19	v	3	s	p	i	e	-	-	-
@@ -3685,7 +3685,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὸν	ὁ	11	l	-	s	-	-	-	m	a	-
 τόπον	τόπος	12	n	-	s	-	-	-	m	a	-
 ,	,	13	u	-	-	-	-	-	-	-	-
-ἐφʼ	ἐπί	14	r	-	-	-	-	-	-	-	-
+ἐφ’	ἐπί	14	r	-	-	-	-	-	-	-	-
 ὃν	ὅς	15	p	-	s	-	-	-	m	a	-
 δεῖ	δεῖ	16	v	3	s	p	i	a	-	-	-
 παραγενέσθαι	παραγίγνομαι	17	v	-	-	a	n	m	-	-	-
@@ -3700,17 +3700,17 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δὲ	δέ	26	c	-	-	-	-	-	-	-	-
 τούτοις	οὗτος	27	p	-	p	-	-	-	n	d	-
 ,	,	28	u	-	-	-	-	-	-	-	-
-διʼ	διά	29	r	-	-	-	-	-	-	-	-
+δι’	διά	29	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	30	p	-	p	-	-	-	n	g	-
 μέλλει	μέλλω	31	v	3	s	p	i	a	-	-	-
 καὶ	καί	32	c	-	-	-	-	-	-	-	-
-μεθʼ	μετά	33	r	-	-	-	-	-	-	-	-
+μεθ’	μετά	33	r	-	-	-	-	-	-	-	-
 ὧν	ὅς	34	p	-	p	-	-	-	n	g	-
 πράττειν	πράσσω	35	v	-	-	p	n	a	-	-	-
 .	.	36	u	-	-	-	-	-	-	-	-
 
 δεύτερον	δεύτερος	1	a	-	s	-	-	-	n	a	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἱστορεῖν	ἱστορέω	3	v	-	-	p	n	a	-	-	-
 ἐπιμελῶς	ἐπιμελής	4	d	-	-	-	-	-	-	-	_
 καὶ	καί	5	c	-	-	-	-	-	-	-	-
@@ -3747,7 +3747,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δυνατὸν	δυνατός	8	a	-	s	-	-	-	n	n	-
 ἴσως	ἴσως	9	d	-	-	-	-	-	-	-	-
 καὶ	καί	10	d	-	-	-	-	-	-	-	-
-διʼ	διά	11	r	-	-	-	-	-	-	-	-
+δι’	διά	11	r	-	-	-	-	-	-	-	-
 αὐτῆς	αὐτός	12	a	-	s	-	-	-	f	g	_
 τῆς	ὁ	13	l	-	s	-	-	-	f	g	-
 στρατιωτικῆς	στρατιωτικός	14	a	-	s	-	-	-	f	g	-
@@ -3762,13 +3762,13 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 αὐτουργίας	αὐτουργία	23	n	-	s	-	-	-	f	g	-
 ,	,	24	u	-	-	-	-	-	-	-	-
 τὰ	ὁ	25	l	-	p	-	-	-	n	a	-
-δʼ	δέ	26	c	-	-	-	-	-	-	-	-
+δ’	δέ	26	c	-	-	-	-	-	-	-	-
 ἐξ	ἐκ	27	r	-	-	-	-	-	-	-	-
 ἱστορίας	ἱστορία	28	n	-	s	-	-	-	f	g	-
 ·	·	29	u	-	-	-	-	-	-	-	-
 
 τὰ	ὁ	1	l	-	p	-	-	-	n	n	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἐκ	ἐκ	3	r	-	-	-	-	-	-	-	-
 τῆς	ὁ	4	l	-	s	-	-	-	f	g	-
 ἐμπειρίας	ἐμπειρία	5	n	-	s	-	-	-	f	g	-
@@ -3812,7 +3812,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	43	u	-	-	-	-	-	-	-	-
 
 ἀναγκαιότατον	ἀναγκαῖος	1	a	-	s	-	-	-	n	n	s
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 αὐτοῦ	αὐτός	3	p	-	s	-	-	-	n	g	-
 τὸ	ὁ	4	l	-	s	-	-	-	n	n	-
 περὶ	περί	5	r	-	-	-	-	-	-	-	-
@@ -3833,7 +3833,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἀεὶ	ἀεί	7	d	-	-	-	-	-	-	-	-
 ταύτας	οὗτος	8	p	-	p	-	-	-	f	a	-
 ,	,	9	u	-	-	-	-	-	-	-	-
-οὐδʼ	οὐδέ	10	d	-	-	-	-	-	-	-	_
+οὐδ’	οὐδέ	10	d	-	-	-	-	-	-	-	_
 ἧστινος	ὅστις	11	a	-	s	-	-	-	f	g	_
 ἂν	ἄν1	12	d	-	-	-	-	-	-	-	-
 ἀσχολίας	ἀσχολία	13	n	-	s	-	-	-	f	g	-
@@ -3842,7 +3842,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 προσεδεῖτο	προσδέομαι	16	v	3	s	i	i	e	-	-	-
 ,	,	17	u	-	-	-	-	-	-	-	-
 κοινὴ	κοινός	18	a	-	s	-	-	-	f	n	-
-δʼ	δέ	19	c	-	-	-	-	-	-	-	-
+δ’	δέ	19	c	-	-	-	-	-	-	-	-
 ἂν	ἄν1	20	d	-	-	-	-	-	-	-	-
 ἦν	εἰμί	21	v	3	s	i	i	a	-	-	-
 ἁπάντων	ἅπας	22	a	-	p	-	-	-	n	g	-
@@ -3851,7 +3851,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	25	u	-	-	-	-	-	-	-	-
 
 ἐπεὶ	ἐπεί	1	c	-	-	-	-	-	-	-	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 οὐ	οὐ	3	d	-	-	-	-	-	-	-	-
 μόνον	μόνος	4	a	-	s	-	-	-	n	a	-
 ἔχει	ἔχω	5	v	3	s	p	i	a	-	-	-
@@ -3956,7 +3956,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐπιγνοὺς	ἐπιγιγνώσκω	18	v	-	s	a	p	a	m	n	-
 αὖθις	αὖθις	19	d	-	-	-	-	-	-	-	-
 ἀπολύεται	ἀπολύω	20	v	3	s	p	i	e	-	-	-
-μετʼ	μετά	21	r	-	-	-	-	-	-	-	-
+μετ’	μετά	21	r	-	-	-	-	-	-	-	-
 ἀσφαλείας	ἀσφάλεια	22	n	-	s	-	-	-	f	g	-
 —	—	23
 ὁ	ὁ	24	l	-	s	-	-	-	m	n	-
@@ -3982,7 +3982,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	44	u	-	-	-	-	-	-	-	-
 
 κρατεῖ	κρατέω	1	v	3	s	p	i	a	-	-	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἐπὶ	ἐπί	3	r	-	-	-	-	-	-	-	-
 πάντων	πᾶς	4	a	-	p	-	-	-	n	g	-
 μὲν	μέν	5	d	-	-	-	-	-	-	-	-
@@ -4010,7 +4010,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 χειμερινάς	χειμερινός	10	a	-	p	-	-	-	f	a	-
 ,	,	11	u	-	-	-	-	-	-	-	-
 ἔτι	ἔτι	12	d	-	-	-	-	-	-	-	-
-δʼ	δέ	13	c	-	-	-	-	-	-	-	-
+δ’	δέ	13	c	-	-	-	-	-	-	-	-
 ἰσημερίας	ἰσημερία	14	n	-	p	-	-	-	f	a	-
 καὶ	καί	15	d	-	-	-	-	-	-	-	-
 τὰς	ὁ	16	l	-	p	-	-	-	f	a	-
@@ -4186,10 +4186,10 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	34	u	-	-	-	-	-	-	-	-
 
 τοῦ	ὁ	1	l	-	s	-	-	-	m	g	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἡλίου	ἥλιος	3	n	-	s	-	-	-	m	g	-
 γνωριζομένου	γνωρίζω	4	v	-	s	p	p	e	m	g	-
-καθʼ	κατά	5	r	-	-	-	-	-	-	-	-
+καθ’	κατά	5	r	-	-	-	-	-	-	-	-
 ἡμέραν	ἡμέρα	6	n	-	s	-	-	-	f	a	-
 ,	,	7	u	-	-	-	-	-	-	-	-
 ποίαν	ποῖος	8	a	-	s	-	-	-	f	a	-
@@ -4275,7 +4275,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐμφαίνεται	ἐμφαίνω	19	v	3	s	p	i	e	-	-	-
 φῶς	φάος	20	n	-	s	-	-	-	n	n	-
 ,	,	21	u	-	-	-	-	-	-	-	-
-καθʼ	κατά	22	r	-	-	-	-	-	-	-	-
+καθ’	κατά	22	r	-	-	-	-	-	-	-	-
 ὃν	ὅς	23	a	-	s	-	-	-	m	a	_
 ἂν	ἄν1	24	d	-	-	-	-	-	-	-	-
 ᾖ	εἰμί	25	v	3	s	p	s	a	-	-	-
@@ -4318,7 +4318,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὥστε	ὥστε	32	c	-	-	-	-	-	-	-	-
 συμπεριφέρεσθαι	συμπεριφέρω	33	v	-	-	p	n	e	-	-	-
 ταῖς	ὁ	34	l	-	p	-	-	-	f	d	-
-καθʼ	κατά	35	r	-	-	-	-	-	-	-	-
+καθ’	κατά	35	r	-	-	-	-	-	-	-	-
 ἡμέραν	ἡμέρα	36	n	-	s	-	-	-	f	a	-
 διαφοραῖς	διαφορά	37	n	-	p	-	-	-	f	d	-
 τῶν	ὁ	38	l	-	p	-	-	-	f	g	-
@@ -4419,7 +4419,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 χιόνες	χιών	30	n	-	p	-	-	-	f	n	-
 ,	,	31	u	-	-	-	-	-	-	-	-
 ἔτι	ἔτι	32	d	-	-	-	-	-	-	-	-
-δʼ	δέ	33	c	-	-	-	-	-	-	-	-
+δ’	δέ	33	c	-	-	-	-	-	-	-	-
 ὁ	ὁ	34	l	-	s	-	-	-	m	n	-
 καπνώδης	καπνώδης	35	a	-	p	-	-	-	m	n	-
 καὶ	καί	36	c	-	-	-	-	-	-	-	-
@@ -4453,7 +4453,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τοῖς	ὁ	18	l	-	p	-	-	-	n	d	-
 πλείστοις	πλεῖστος	19	a	-	p	-	-	-	n	d	-
 ἀποτευξόμεθα	ἀποτυγχάνω	20	v	1	p	f	i	m	-	-	-
-διʼ	διά	21	r	-	-	-	-	-	-	-	-
+δι’	διά	21	r	-	-	-	-	-	-	-	-
 αὑτούς	ἑαυτοῦ	22	p	-	p	-	-	-	m	a	-
 ;	;	23	u	-	-	-	-	-	-	-	-
 
@@ -4478,7 +4478,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καὶ	καί	19	c	-	-	-	-	-	-	-	-
 τοὺς	ὁ	20	l	-	p	-	-	-	m	a	-
 νῦν	νῦν	21	d	-	-	-	-	-	-	-	-
-ὑφʼ	ὑπό	22	r	-	-	-	-	-	-	-	-
+ὑφ’	ὑπό	22	r	-	-	-	-	-	-	-	-
 ἡμῶν	ἐγώ	23	p	1	p	-	-	-	m	g	-
 λέγεσθαι	λέγω3	24	v	-	-	p	n	e	-	-	-
 μέλλοντας	μέλλω	25	v	-	p	p	p	a	m	a	-
@@ -4532,7 +4532,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δυνάμεως	δύναμις	44	n	-	s	-	-	-	f	g	-
 ,	,	45	u	-	-	-	-	-	-	-	-
 τοὺς	ὁ	46	l	-	p	-	-	-	m	a	-
-δʼ	δέ	47	d	-	-	-	-	-	-	-	-
+δ’	δέ	47	d	-	-	-	-	-	-	-	-
 ἔνδοθεν	ἔνδοθεν	48	d	-	-	-	-	-	-	-	-
 περὶ	περί	49	r	-	-	-	-	-	-	-	-
 μέσον	μέσος	50	a	-	s	-	-	-	n	a	-
@@ -4546,7 +4546,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἕνα	εἷς	58	n	-	s	-	-	-	m	a	-
 μὲν	μέν	59	d	-	-	-	-	-	-	-	-
 αὑτῶν	ἑαυτοῦ	60	p	-	p	-	-	-	m	g	-
-μεθʼ	μετά	61	r	-	-	-	-	-	-	-	-
+μεθ’	μετά	61	r	-	-	-	-	-	-	-	-
 ἡσυχίας	ἡσυχία	62	n	-	s	-	-	-	f	g	-
 ἐν	ἐν	63	r	-	-	-	-	-	-	-	-
 ἱματίῳ	ἱμάτιον	64	n	-	s	-	-	-	n	d	-
@@ -4779,7 +4779,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 διαφέρον	διαφέρω	8	v	-	s	p	p	a	n	a	-
 ἔχουσι	ἔχω	9	v	3	p	p	i	a	-	-	-
 τῆς	ὁ	10	l	-	s	-	-	-	f	g	-
-ἐφʼ	ἐπί	11	r	-	-	-	-	-	-	-	-
+ἐφ’	ἐπί	11	r	-	-	-	-	-	-	-	-
 ἑκάτερα	ἑκάτερος	12	a	-	p	-	-	-	n	a	-
 ῥοπῆς	ῥοπή	13	n	-	s	-	-	-	f	g	-
 τῶν	ὁ	14	l	-	p	-	-	-	n	g	-
@@ -4974,7 +4974,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 χώραν	χώρα	24	n	-	s	-	-	-	f	a	-
 ,	,	25	u	-	-	-	-	-	-	-	-
 οὔ	οὐ	26	d	-	-	-	-	-	-	-	-
--τʼ	-τʼ	27	d	-	-	-	-	-	-	-	_
+-τ’	-τ’	27	d	-	-	-	-	-	-	-	_
 ἐπιμένειν	ἐπιμένω	28	v	-	-	p	n	a	-	-	-
 ἐδύνατο	δύναμαι	29	v	3	s	i	i	e	-	-	-
 ,	,	30	u	-	-	-	-	-	-	-	-
@@ -4985,7 +4985,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἔνδον	ἔνδον	35	d	-	-	-	-	-	-	-	-
 ,	,	36	u	-	-	-	-	-	-	-	-
 οὔ	οὐ	37	d	-	-	-	-	-	-	-	-
--τʼ	-τʼ	38	c	-	-	-	-	-	-	-	-
+-τ’	-τ’	38	c	-	-	-	-	-	-	-	-
 ἀνακάμψας	ἀνακάμπτω	39	v	-	s	a	p	a	m	n	-
 ἔτι	ἔτι	40	d	-	-	-	-	-	-	-	-
 λαθεῖν	λανθάνω	41	v	-	-	a	n	a	-	-	-
@@ -5049,7 +5049,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἰδίων	ἴδιος	10	a	-	p	-	-	-	m	g	-
 ἀποβαλών	ἀποβάλλω	11	v	-	s	a	p	a	m	n	-
 ,	,	12	u	-	-	-	-	-	-	-	-
-μετʼ	μετά	13	r	-	-	-	-	-	-	-	-
+μετ’	μετά	13	r	-	-	-	-	-	-	-	-
 αἰσχύνης	αἰσχύνη	14	n	-	s	-	-	-	f	g	-
 ἄπρακτος	ἄπρακτος	15	a	-	s	-	-	-	m	n	-
 ἐπανῆλθε	ἐπανέρχομαι	16	v	3	s	a	i	a	-	-	-
@@ -5258,7 +5258,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	20	u	-	-	-	-	-	-	-	-
 
 τὴν	ὁ	1	l	-	s	-	-	-	f	a	-
-δʼ	δέ	2	d	-	-	-	-	-	-	-	-
+δ’	δέ	2	d	-	-	-	-	-	-	-	-
 ἀπόβασιν	ἀπόβασις	3	n	-	s	-	-	-	f	a	-
 τῆς	ὁ	4	l	-	s	-	-	-	f	g	-
 κλίμακος	κλῖμαξ	5	n	-	s	-	-	-	f	g	-
@@ -5303,7 +5303,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δυνατὸν	δυνατός	4	a	-	s	-	-	-	n	n	-
 ᾖ	εἰμί	5	v	3	s	p	s	a	-	-	-
 μετρῆσαι	μετρέω	6	v	-	-	a	n	a	-	-	-
-μηδʼ	μηδʼ	7	c	-	-	-	-	-	-	-	-
+μηδ’	μηδ’	7	c	-	-	-	-	-	-	-	-
 ἐγγίσαι	ἐγγίζω	8	v	-	-	a	n	a	-	-	-
 τῷ	ὁ	9	l	-	s	-	-	-	n	d	-
 τείχει	τεῖχος	10	n	-	s	-	-	-	n	d	-
@@ -5361,10 +5361,10 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μὴ	μή	17	d	-	-	-	-	-	-	-	-
 τελείως	τέλειος	18	d	-	-	-	-	-	-	-	p
 ,	,	19	u	-	-	-	-	-	-	-	-
-ἀλλʼ	ἀλλά	20	c	-	-	-	-	-	-	-	-
+ἀλλ’	ἀλλά	20	c	-	-	-	-	-	-	-	-
 ἐπὶ	ἐπί	21	r	-	-	-	-	-	-	-	-
 τοσοῦτον	τοσοῦτος	22	p	-	s	-	-	-	n	a	-
-ἐφʼ	ἐπί	23	r	-	-	-	-	-	-	-	-
+ἐφ’	ἐπί	23	r	-	-	-	-	-	-	-	-
 ὅσον	ὅσος	24	a	-	s	-	-	-	n	a	-
 ἀναλογίας	ἀναλογία	25	n	-	s	-	-	-	f	g	-
 ἔννοιαν	ἔννοια	26	n	-	s	-	-	-	f	a	-

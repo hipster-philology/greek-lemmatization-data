@@ -4,6 +4,8 @@ import regex as re
 import lxml.etree as ET
 import string
 import logging
+import unicodedata
+from greek_normalisation.utils import convert_to_2019
 # https://github.com/alpheios-project/arethusa-configs/blob/0fb320bcbf1265032af0202ed3592a6ed5ae48e3/configs/arethusa.morph/gr_attributes.json
 
 logging.getLogger(__name__).setLevel(logging.DEBUG)
@@ -28,11 +30,30 @@ GLOBAL_PUNC = 0
 PUNCTUATION = set(string.punctuation)
 
 _re_punc = re.compile(r"\W+")
+
+def rep(string):
+	# .replace("j", "") ?
+	return string\
+		.replace("A", "Α")\
+		.replace("K", "Κ")\
+		.replace("M", "Μ")\
+		.replace("a", "α")\
+		.replace("h", "η")\
+		.replace("i", "ι")\
+		.replace("m", "μ")\
+		.replace("n", "η")\
+		.replace("o", "ο")\
+		.replace("s", "ς")\
+		.replace("v", "υ")
+
 def get_form_lemma(form, lemma, token_id=0):
 	if _re_punc.match(form):
 		lemma = form
 	elif lemma == "":
 		logging.error(f"{form} has no lemma [Token ID {token_id}")
+
+	form = convert_to_2019(rep(unicodedata.normalize("NFKD", form)))
+	lemma = convert_to_2019(rep(unicodedata.normalize("NFKD", lemma)))
 	return [form, lemma]
 
 def deal_with_xml(xml, basename, projectname):

@@ -13,6 +13,7 @@ Lemma are from the *Henry George Liddell, Robert Scott, A Greek-English Lexicon*
 ## Script
 
 1. Run `build.py` to get the "simple" training data
+	- **Warning:** default output is NFKD
 2. Run `build-normalized.py` to get nfd and nfc data
 
 ## Sources
