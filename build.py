@@ -1,5 +1,6 @@
 import glob
 import os
+import regex as re
 import lxml.etree as ET
 import string
 import logging
@@ -26,6 +27,14 @@ GLOBAL_TOKENS = 0
 GLOBAL_PUNC = 0
 PUNCTUATION = set(string.punctuation)
 
+_re_punc = re.compile(r"\W+")
+def get_form_lemma(form, lemma, token_id=0):
+	if _re_punc.match(form):
+		lemma = form
+	elif lemma == "":
+		logging.error(f"{form} has no lemma [Token ID {token_id}")
+	return [form, lemma]
+
 def deal_with_xml(xml, basename, projectname):
 	with open(f"data/output/{projectname}-{basename}.tsv", "w") as out:
 		out.write(header)
@@ -40,7 +49,7 @@ def deal_with_xml(xml, basename, projectname):
 				tbw_sentence.append(
 					"\t".join(
 						# form="τοίνυν" lemma="τοίνυν" postag="d--------"
-						[word.attrib["form"], word.attrib["lemma"], word.attrib.get("id", "?")] + \
+						get_form_lemma(word.attrib["form"], word.attrib["lemma"], token_id=word.attrib.get("id", "?")) + [word.attrib.get("id", "?")] + \
 						list(word.attrib["postag"])
 					)
 				)

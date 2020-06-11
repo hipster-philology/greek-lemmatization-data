@@ -1335,7 +1335,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἡμέτερόνδ̓	ἡμέτερόνδε	25	d	-	-	-	-	-	-	-	-
 ἰέναι	εἶμι	26	v	-	-	p	n	a	-	-	-
 μἠ	μη	27	c	-	-	-	-	-	-	-	-
--δ̓	δε	28	c	-	-	-	-	-	-	-	-
+-δ̓	-δ̓	28	c	-	-	-	-	-	-	-	-
 ἄλλων	ἄλλος	29	p	-	p	-	-	-	m	g	-
 δώματ̓	δῶμα	30	n	-	p	-	-	-	n	a	-
 ἐρευνᾶν	ἐρευνάω	31	v	-	-	p	n	a	-	-	-
@@ -1655,7 +1655,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὐδέ	οὐδέ	9	c	-	-	-	-	-	-	-	-
 τιν̓	τις	10	p	-	s	-	-	-	m	a	-
 οὔ̓	οὐ	11	d	-	-	-	-	-	-	-	-
--τ̓	τε	12	c	-	-	-	-	-	-	-	-
+-τ̓	-τ̓	12	c	-	-	-	-	-	-	-	-
 ἔπεϊ	ἔπος	13	n	-	s	-	-	-	n	d	-
 προσπτύσσετο	προσπτύσσω	14	v	3	s	i	i	e	-	-	-
 οὔτε	οὐτε	15	c	-	-	-	-	-	-	-	-
@@ -1927,7 +1927,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 κακοφραδίῃσι	κακοφραδία	18	n	-	p	-	-	-	f	d	-
 τιθήνης	τιθήνη	19	n	-	s	-	-	-	f	g	-
 οὔ	οὐ	20	d	-	-	-	-	-	-	-	-
--τ̓	τε	21	c	-	-	-	-	-	-	-	-
+-τ̓	-τ̓	21	c	-	-	-	-	-	-	-	-
 ἄῤ	ἄρα	22	d	-	-	-	-	-	-	-	-
 ἐπηλυσίη	ἐπηλυσία	23	n	-	s	-	-	-	f	n	-
 δηλήσεται	δηλέομαι	24	v	3	s	f	i	e	-	-	-
@@ -1992,7 +1992,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἶσος	ἴσος	5	a	-	s	-	-	-	m	n	-
 ,	,	6	u	-	-	-	-	-	-	-	-
 οὔ	οὐ	7	d	-	-	-	-	-	-	-	-
--τ̓	τε	8	c	-	-	-	-	-	-	-	-
+-τ̓	-τ̓	8	c	-	-	-	-	-	-	-	-
 οὖν	οὖν	9	d	-	-	-	-	-	-	-	-
 σῖτον	σῖτος	10	n	-	s	-	-	-	m	a	-
 ἔδων	ἔδω	11	v	-	s	p	p	a	m	n	-
@@ -2168,7 +2168,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καὶ	καί	3	c	-	-	-	-	-	-	-	-
 ἀφράδμονες	ἀφράδμων	4	a	-	p	-	-	-	m	v	-
 οὔ	οὐ	5	d	-	-	-	-	-	-	-	-
--τ̓	τε	6	c	-	-	-	-	-	-	-	-
+-τ̓	-τ̓	6	c	-	-	-	-	-	-	-	-
 ἀγαθοῖο	ἀγαθός	7	a	-	s	-	-	-	n	g	-
 αἶσαν	αἶσα	8	n	-	s	-	-	-	f	a	-
 ἐπερχομένου	ἐπέρχομαι	9	v	-	s	p	p	e	n	g	-
@@ -3890,13 +3890,13 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 θεοῖσι	θεός	26	n	-	p	-	-	-	m	d	-
 .	.	27	u	-	-	-	-	-	-	-	-
 
-[νεῦσε	νεύω	1	v	3	s	a	i	a	-	-	-
+[νεῦσε	[νεῦσε	1	v	3	s	a	i	a	-	-	-
 δέ	δέ	2	c	-	-	-	-	-	-	-	-
 σοι	σύ	3	p	2	s	-	-	-	-	d	-
 κούρην	κόρη	4	n	-	s	-	-	-	f	a	-
 ἔτεος	ἔτος	5	n	-	s	-	-	-	n	g	-
 π]εριτελλομένοιο	περιτέλλομαι	6	v	-	s	a	p	m	n	g	-
-[τὴν	ὁ	7	l	-	s	-	-	-	f	a	-
+[τὴν	[τὴν	7	l	-	s	-	-	-	f	a	-
 τριτάτην	τρίτατος	8	a	-	s	-	-	-	f	a	-
 μὲν	μέν	9	d	-	-	-	-	-	-	-	-
 μοῖραν	μοῖρα	10	n	-	s	-	-	-	f	a	-
@@ -3904,7 +3904,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ζόφον	ζόφος	12	n	-	s	-	-	-	m	a	-
 ἠ]ερόεντα	ἠερόεις	13	a	-	s	-	-	-	m	a	-
 ,	,	14	u	-	-	-	-	-	-	-	-
-[τὰς	ὁ	15	l	-	p	-	-	-	f	a	-
+[τὰς	[τὰς	15	l	-	p	-	-	-	f	a	-
 δὲ	δὲ	16	c	-	-	-	-	-	-	-	-
 δύω	δύο	17	m	-	-	-	-	-	-	-	-
 παρὰ	παρά	18	r	-	-	-	-	-	-	-	-

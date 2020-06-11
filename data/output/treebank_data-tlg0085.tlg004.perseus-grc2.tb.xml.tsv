@@ -627,7 +627,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐπὶ	ἐπί	8	r	-	-	-	-	-	-	-	-
 πόλιν	πόλις	9	n	-	s	-	-	-	f	a	-
 διώκων	διώκω	10	v	-	s	p	p	a	m	n	-
-[πόδα]	πούς	11	n	-	s	-	-	-	m	a	-
+[πόδα]	[πόδα]	11	n	-	s	-	-	-	m	a	-
 .	.	12	u	-	-	-	-	-	-	-	-
 
 τίς	τίς	1	p	-	s	-	-	-	m	n	-
@@ -742,7 +742,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	7	u	-	-	-	-	-	-	-	-
 
 κῦμα	κῦμα	1	n	-	s	-	-	-	n	n	-
-[γὰρ]	γάρ	2	g	-	-	-	-	-	-	-	-
+[γὰρ]	[γὰρ]	2	g	-	-	-	-	-	-	-	-
 περὶ	περί	3	r	-	-	-	-	-	-	-	-
 πτόλιν	πόλις	4	n	-	s	-	-	-	f	a	-
 δοχμολόφων	δοχμόλοφος	5	a	-	p	-	-	-	m	g	-
@@ -778,7 +778,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δ̓	δέ	2	g	-	-	-	-	-	-	-	-
 ἀρῄων	ἀρείων	3	a	-	p	-	-	-	n	g	-
 ὅπλων	ὅπλον	4	n	-	p	-	-	-	n	g	-
-[δονεῖ]	δονέω	5	v	3	s	p	i	a	-	-	-
+[δονεῖ]	[δονεῖ]	5	v	3	s	p	i	a	-	-	-
 ,	,	6	u	-	-	-	-	-	-	-	-
 διὰ	διά	7	r	-	-	-	-	-	-	-	-
 δέ	δέ	8	g	-	-	-	-	-	-	-	-
@@ -901,7 +901,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	9	u	-	-	-	-	-	-	-	-
 τόξον	τόξον	10	n	-	s	-	-	-	n	a	-
 εὐτυκάζου	εὐτυκάζομαι	11	v	2	s	p	m	e	-	-	-
-[Ἄρτεμι	Ἄρτεμις	12	n	-	s	-	-	-	f	v	-
+[Ἄρτεμι	[Ἄρτεμι	12	n	-	s	-	-	-	f	v	-
 φίλα]	φίλος	13	a	-	s	-	-	-	f	v	-
 .	.	14	u	-	-	-	-	-	-	-	-
 
@@ -1735,7 +1735,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἑστίας	ἑστία	29	n	-	p	-	-	-	f	a	-
 θεῶν	θεός	30	n	-	p	-	-	-	m	g	-
 ,	,	31	u	-	-	-	-	-	-	-	-
-[ταυροκτονοῦντας	ταυροκτονέω	32	v	-	p	p	p	a	m	a	-
+[ταυροκτονοῦντας	[ταυροκτονοῦντας	32	v	-	p	p	p	a	m	a	-
 θεοῖσιν	θεός	33	n	-	p	-	-	-	m	d	-
 ,	,	34	u	-	-	-	-	-	-	-	-
 ὧδ̓	ὧδε	35	d	-	-	-	-	-	-	-	-
@@ -2069,7 +2069,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	13	u	-	-	-	-	-	-	-	-
 
 καπνῷ	καπνός	1	n	-	s	-	-	-	m	d	-
-[δὲ]	δέ	2	g	-	-	-	-	-	-	-	-
+[δὲ]	[δὲ]	2	g	-	-	-	-	-	-	-	-
 χραίνεται	χραίνω	3	v	3	s	p	i	e	-	-	-
 πόλισμ̓	πόλισμα	4	n	-	s	-	-	-	n	n	-
 ἅπαν	ἅπας	5	a	-	s	-	-	-	n	n	-
@@ -2090,7 +2090,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἄστυ	ἄστυ	4	n	-	s	-	-	-	n	a	-
 ,	,	5	u	-	-	-	-	-	-	-	-
 προτὶ	πρός	6	r	-	-	-	-	-	-	-	-
-[πτόλιν]	πόλις	7	n	-	s	-	-	-	f	a	-
+[πτόλιν]	[πτόλιν]	7	n	-	s	-	-	-	f	a	-
 δ̓	δέ	8	g	-	-	-	-	-	-	-	-
 ὁρκάνα	ὁρκάνη	9	n	-	s	-	-	-	f	n	-
 πυργῶτις	πυργῶτις	10	n	-	s	-	-	-	f	n	-
@@ -5276,7 +5276,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἀσινεῖ	ἀσινής	19	a	-	s	-	-	-	m	d	-
 ?	?	20	u	-	-	-	-	-	-	-	-
 σωτῆρι	σωτήρ	21	n	-	s	-	-	-	m	d	-
-. .,		22	-	-	-	-	-	-	-	-	-
+. .,	. .,	22	-	-	-	-	-	-	-	-	-
 
 ἢ	ἤ	1	c	-	-	-	-	-	-	-	-
 τοὺς	ὁ	2	l	-	p	-	-	-	m	a	-
@@ -5447,7 +5447,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τὰν	ὁ	21	l	-	s	-	-	-	f	a	-
 ἄστολον	ἄστολος	22	a	-	s	-	-	-	f	a	-
 μελάγκροκον	μελάγκροκος	23	a	-	s	-	-	-	f	a	-
-[ναύστολον]	ναύστολος	24	a	-	s	-	-	-	f	a	-
+[ναύστολον]	[ναύστολον]	24	a	-	s	-	-	-	f	a	-
 θεωρίδα	θεωρίς	25	n	-	s	-	-	-	f	a	-
 ,	,	26	u	-	-	-	-	-	-	-	-
 τὰν	ὁ	27	l	-	s	-	-	-	f	a	-
@@ -5615,13 +5615,13 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 
 διανταίαν	διανταῖος	1	a	-	s	-	-	-	f	a	-
 λέγεις	λέγω	2	v	2	s	p	i	a	-	-	-
-[πλαγὰν]	πληγή	3	n	-	s	-	-	-	f	a	-
+[πλαγὰν]	[πλαγὰν]	3	n	-	s	-	-	-	f	a	-
 δόμοισι	δόμος	4	n	-	p	-	-	-	m	d	-
 καὶ	καί	5	c	-	-	-	-	-	-	-	-
 σώμασιν	σῶμα	6	n	-	p	-	-	-	n	d	-
 πεπλαγμένους	πλήσσω	7	v	-	p	r	p	e	m	a	-
 ,	,	8	u	-	-	-	-	-	-	-	-
-[ἐννέπω]	ἐνέπω	9	v	1	s	p	i	a	-	-	-
+[ἐννέπω]	[ἐννέπω]	9	v	1	s	p	i	a	-	-	-
 ἀναυδάτῳ	ἀναύδητος	10	a	-	s	-	-	-	n	d	-
 μένει	μένος	11	n	-	s	-	-	-	n	d	-
 ἀραίῳ	ἀραῖος	12	a	-	s	-	-	-	m	d	-
@@ -5660,7 +5660,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὧν	ὅς	11	p	-	p	-	-	-	n	g	-
 νεῖκος	νεῖκος	12	n	-	s	-	-	-	n	n	-
 ἔβα	βαίνω	13	v	3	s	a	i	a	-	-	-
-[καὶ]	καί	14	c	-	-	-	-	-	-	-	-
+[καὶ]	[καὶ]	14	c	-	-	-	-	-	-	-	-
 θανάτου	θάνατος	15	n	-	s	-	-	-	m	g	-
 τέλος	τέλος	16	n	-	s	-	-	-	n	n	-
 .	.	17	u	-	-	-	-	-	-	-	-

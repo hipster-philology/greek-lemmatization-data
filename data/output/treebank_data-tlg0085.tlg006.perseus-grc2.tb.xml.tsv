@@ -340,7 +340,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μένει	μένω	16	v	3	s	p	i	a	-	-	-
 χρονίζοντας	χρονίζω	17	v	-	p	p	p	a	m	a	-
 ἄχη	ἄχος	18	n	-	p	-	-	-	n	n	-
-[βρύει]	βρύω	19	v	3	s	p	i	a	-	-	-
+[βρύει]	[βρύει]	19	v	3	s	p	i	a	-	-	-
 ,	,	20	u	-	-	-	-	-	-	-	-
 τοὺς	ὁ	21	p	-	p	-	-	-	m	a	-
 δ̓	δέ	22	g	-	-	-	-	-	-	-	-
@@ -415,7 +415,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μ̓	ἐγώ	7	p	-	s	-	-	-	f	a	-
 ἐσᾶγον	εἰσάγω	8	v	3	p	i	i	a	-	-	-
 αἶσαν	αἶσα	9	n	-	s	-	-	-	f	a	-
-]-		10	-	-	-	-	-	-	-	-	-
+]-	]-	10	-	-	-	-	-	-	-	-	-
 δίκαια	δίκαιος	11	a	-	p	-	-	-	n	a	-
 καὶ	καί	12	c	-	-	-	-	-	-	-	-
 μὴ	μή	13	c	-	-	-	-	-	-	-	-
@@ -2186,7 +2186,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὐ	οὐ	6	d	-	-	-	-	-	-	-	-
 δαμάζει	δαμάζω	7	v	3	s	p	i	a	-	-	-
 πυρὸς	πῦρ	8	n	-	s	-	-	-	n	g	-
-[ἡ]	ὁ	9	l	-	s	-	-	-	f	n	-
+[ἡ]	[ἡ]	9	l	-	s	-	-	-	f	n	-
 μαλερὰ	μαλερός	10	a	-	s	-	-	-	f	n	-
 γνάθος	γνάθος	11	n	-	s	-	-	-	f	n	-
 ,	,	12	u	-	-	-	-	-	-	-	-
@@ -2719,7 +2719,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	30	u	-	-	-	-	-	-	-	-
 
 ἰὼ	ἰώ	1	i	-	-	-	-	-	-	-	-
-[ἰὼ]	ἰώ	2	i	-	-	-	-	-	-	-	-
+[ἰὼ]	[ἰὼ]	2	i	-	-	-	-	-	-	-	-
 δαΐα	δάιος	3	a	-	s	-	-	-	f	v	-
 πάντολμε	πάντολμος	4	a	-	s	-	-	-	f	v	-
 μᾶτερ	μήτηρ	5	n	-	s	-	-	-	f	v	-
@@ -3828,7 +3828,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 γᾶ	γῆ	3	n	-	s	-	-	-	f	n	-
 τρέφει	τρέφω	4	v	3	s	p	i	a	-	-	-
 δεινὰ	δεινός	5	a	-	p	-	-	-	n	a	-
-[καὶ]	καί	6	c	-	-	-	-	-	-	-	-
+[καὶ]	[καὶ]	6	c	-	-	-	-	-	-	-	-
 δειμάτων	δεῖμα	7	n	-	p	-	-	-	n	g	-
 ἄχη	ἄχος	8	n	-	p	-	-	-	n	a	-
 ,	,	9	u	-	-	-	-	-	-	-	-
@@ -3841,7 +3841,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	16	u	-	-	-	-	-	-	-	-
 
 πλάθουσι	πλάθω	1	v	3	p	p	i	a	-	-	-
-[βλαστοῦσι]	βλαστάνω	2	v	-	p	a	p	a	m	d	-
+[βλαστοῦσι]	[βλαστοῦσι]	2	v	-	p	a	p	a	m	d	-
 καὶ	καί	3	c	-	-	-	-	-	-	-	-
 πεδαίχμιοι	πεδαίχμιος	4	a	-	p	-	-	-	f	n	-
 λαμπάδες	λαμπάς	5	n	-	p	-	-	-	f	n	-
@@ -3872,7 +3872,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 γυναικῶν	γυνή	10	n	-	p	-	-	-	f	g	-
 φρεσὶν	φρήν	11	n	-	p	-	-	-	f	d	-
 τλαμόνων	τλήμων	12	n	-	p	-	-	-	f	g	-
-[καὶ]	καί	13	c	-	-	-	-	-	-	-	-
+[καὶ]	[καὶ]	13	c	-	-	-	-	-	-	-	-
 παντόλμους	πάντολμος	14	a	-	p	-	-	-	m	a	-
 ἔρωτας	ἔρως	15	n	-	p	-	-	-	m	a	-
 ἄταισι	ἄτη	16	n	-	p	-	-	-	f	d	-
@@ -5184,7 +5184,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 θεοί	θεός	12	n	-	p	-	-	-	m	v	-
 ·	·	13	u	-	-	-	-	-	-	-	-
 
-[ἄγετε]	ἄγε	1	d	-	-	-	-	-	-	-	-
+[ἄγετε]	[ἄγετε]	1	d	-	-	-	-	-	-	-	-
 τῶν	ὁ	2	l	-	p	-	-	-	n	g	-
 πάλαι	πάλαι	3	d	-	-	-	-	-	-	-	-
 πεπραγμένων	πράσσω	4	v	-	p	r	p	e	n	g	-
@@ -5244,7 +5244,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 θέλων	ἐθέλω	12	v	-	s	p	p	a	m	n	-
 ·	·	13	u	-	-	-	-	-	-	-	-
 
-[πολλὰ	πολύς	1	a	-	p	-	-	-	n	a	-
+[πολλὰ	[πολλὰ	1	a	-	p	-	-	-	n	a	-
 δ̓	δέ	2	g	-	-	-	-	-	-	-	-
 ἄλλα	ἄλλος	3	a	-	p	-	-	-	n	a	-
 φανεῖ	φαίνω	4	v	3	s	f	i	a	-	-	-
@@ -5322,12 +5322,12 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 πατρὸς	πατήρ	11	n	-	s	-	-	-	m	g	-
 αὐδὰν	αὐδή	12	n	-	s	-	-	-	f	a	-
 θροούσᾳ	θροέω	13	v	-	s	p	p	a	f	d	-
-[πρὸς	πρός	14	r	-	-	-	-	-	-	-	-
+[πρὸς	[πρὸς	14	r	-	-	-	-	-	-	-	-
 σὲ]	σύ	15	p	-	s	-	-	-	m	a	-
 τέκνον	τέκνον	16	n	-	s	-	-	-	n	v	-
-[πατρὸς	πατήρ	17	n	-	s	-	-	-	m	g	-
+[πατρὸς	[πατρὸς	17	n	-	s	-	-	-	m	g	-
 αὐδὰν]	αὐδή	18	n	-	s	-	-	-	f	a	-
-[καὶ]	καί	19	c	-	-	-	-	-	-	-	-
+[καὶ]	[καὶ]	19	c	-	-	-	-	-	-	-	-
 πέραιν̓	περαίνω	20	v	2	s	p	m	a	-	-	-
 ἀνεπίμομφον	ἀνεπίμομφος	21	a	-	s	-	-	-	f	a	-
 ἄταν	ἄτη	22	n	-	s	-	-	-	f	a	-

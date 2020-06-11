@@ -655,7 +655,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 εἰαρινοῖσιν	ἐαρινός	9	a	-	p	-	-	-	n	d	-
 ·	·	10	u	-	-	-	-	-	-	-	-
 
-[πάντα	πᾶς	1	a	-	s	-	-	-	m	a	-
+[πάντα	[πάντα	1	a	-	s	-	-	-	m	a	-
 δέ	δέ	2	g	-	-	-	-	-	-	-	-
 οἱ	ἕ	3	p	-	s	-	-	-	f	d	-
 χροῒ	χρώς	4	n	-	s	-	-	-	m	d	-
@@ -681,7 +681,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καὶ	καί	14	c	-	-	-	-	-	-	-	-
 ἐπίκλοπον	ἐπίκλοπος	15	a	-	s	-	-	-	n	a	-
 ἦθος	ἦθος	16	n	-	s	-	-	-	n	a	-
-[τεῦξε	τεύχω	17	v	3	s	a	i	a	-	-	-
+[τεῦξε	[τεῦξε	17	v	3	s	a	i	a	-	-	-
 Διὸς	Ζεύς	18	n	-	s	-	-	-	m	g	-
 βουλῇσι	βουλή	19	n	-	p	-	-	-	f	d	-
 βαρυκτύπου	βαρύκτυπος	20	a	-	s	-	-	-	m	g	-
@@ -803,7 +803,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἔδωκαν	δίδωμι	25	v	3	p	a	i	a	-	-	-
 .	.	26	u	-	-	-	-	-	-	-	-
 
-[αἶψα	αἶψα	1	d	-	-	-	-	-	-	-	-
+[αἶψα	[αἶψα	1	d	-	-	-	-	-	-	-	-
 γὰρ	γάρ	2	g	-	-	-	-	-	-	-	-
 ἐν	εἰς	3	r	-	-	-	-	-	-	-	-
 κακότητι	κακότης	4	n	-	s	-	-	-	f	d	-
@@ -853,7 +853,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐπέλλαβε	ἐπιλαμβάνω	3	v	3	s	a	i	a	-	-	-
 πῶμα	πῶμα	4	n	-	s	-	-	-	n	n	-
 πίθοιο	πίθος	5	n	-	s	-	-	-	m	g	-
-[αἰγιόχου	αἰγίοχος	6	a	-	s	-	-	-	m	g	-
+[αἰγιόχου	[αἰγιόχου	6	a	-	s	-	-	-	m	g	-
 βουλῇσι	βουλή	7	n	-	p	-	-	-	f	d	-
 Διὸς	Ζεύς	8	n	-	s	-	-	-	m	g	-
 νεφεληγερέταο	νεφεληγερέτα	9	n	-	s	-	-	-	m	g	-
@@ -1073,7 +1073,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 θνητῶν	θνητός	22	a	-	p	-	-	-	m	g	-
 ἀνθρώπων	ἄνθρωπος	23	n	-	p	-	-	-	m	g	-
 ,	,	24	u	-	-	-	-	-	-	-	-
-[οἵ	ὅς	25	p	-	p	-	-	-	m	n	-
+[οἵ	[οἵ	25	p	-	p	-	-	-	m	n	-
 ῥα	ἄρα	26	g	-	-	-	-	-	-	-	-
 φυλάσσουσίν	φυλάσσω	27	v	3	p	p	i	a	-	-	-
 τε	τε	28	g	-	-	-	-	-	-	-	-
@@ -1514,7 +1514,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὁμῶς	ὁμῶς	3	d	-	-	-	-	-	-	-	-
 ν]εάτοις	νέατος	4	a	-	p	-	-	-	m	d	-
 τιμὴ	τιμή	5	n	-	s	-	-	-	f	n	-
-[καὶ	καί	6	c	-	-	-	-	-	-	-	-
+[καὶ	[καὶ	6	c	-	-	-	-	-	-	-	-
 κῦδος	κῦδος	7	n	-	s	-	-	-	n	n	-
 ὀπηδεῖ	ὀπαδέω	8	v	3	s	p	i	a	-	-	-
 .	.	9	u	-	-	-	-	-	-	-	-
@@ -1526,14 +1526,14 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἄ]λλο	ἄλλος	5	a	-	s	-	-	-	n	a	-
 γένος	γένος	6	n	-	s	-	-	-	n	a	-
 θῆκ̓	τίθημι	7	v	3	s	a	i	a	-	-	-
-[εὐρύοπα	εὐρύοπα	8	n	-	s	-	-	-	m	n	-
+[εὐρύοπα	[εὐρύοπα	8	n	-	s	-	-	-	m	n	-
 Ζεὺς	Ζεύς	9	n	-	s	-	-	-	m	n	-
 ἀνδρῶν	ἀνήρ	10	n	-	p	-	-	-	m	g	-
 ,	,	11	u	-	-	-	-	-	-	-	-
 οἳ]	ὅς	12	p	-	p	-	-	-	m	n	-
 γεγάασιν	γίγνομαι	13	v	3	p	r	i	a	-	-	-
 ἐπὶ	ἐπί	14	r	-	-	-	-	-	-	-	-
-[χθονὶ	χθών	15	n	-	s	-	-	-	f	d	-
+[χθονὶ	[χθονὶ	15	n	-	s	-	-	-	f	d	-
 πουλυβοτείρῃ	πουλυβότειρα	16	n	-	s	-	-	-	f	d	-
 .	.	17	u	-	-	-	-	-	-	-	-
 

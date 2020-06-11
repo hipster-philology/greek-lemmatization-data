@@ -757,7 +757,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 
 ἀλλ̓	ἀλλά	1	d	-	-	-	-	-	-	-	-
 ἔμπας	ἔμπας	2	d	-	-	-	-	-	-	-	-
-[ὀίω]	οἴομαι	3	v	1	s	p	i	a	-	-	-
+[ὀίω]	[ὀίω]	3	v	1	s	p	i	a	-	-	-
 μαλακογνώμων	μαλακογνώμων	4	a	-	s	-	-	-	m	n	-
 ἔσται	εἰμί	5	v	3	s	f	i	-	-	-	-
 ποθ̓	ποτέ	6	g	-	-	-	-	-	-	-	-
@@ -1873,7 +1873,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 αἰχμαῖς	αἰχμή	22	n	-	p	-	-	-	f	d	-
 .	.	23	u	-	-	-	-	-	-	-	-
 
-[?		2	-	-	-	-	-	-	-	-	-
+[?	[?	2	-	-	-	-	-	-	-	-	-
 μόνον	μόνος	3	a	-	s	-	-	-	m	a	-
 δὴ	δή	4	g	-	-	-	-	-	-	-	-
 πρόσθεν	πρόσθεν	5	d	-	-	-	-	-	-	-	-
@@ -1895,7 +1895,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	21	u	-	-	-	-	-	-	-	-
 ὃς	ὅς	22	p	-	s	-	-	-	m	n	-
 οὐράνιόν	οὐράνιος	23	a	-	s	-	-	-	m	a	-
-[τε]	τε	24	g	-	-	-	-	-	-	-	-
+[τε]	[τε]	24	g	-	-	-	-	-	-	-	-
 πόλον	πόλος	25	n	-	s	-	-	-	m	a	-
 νώτοις	νῶτον	26	n	-	p	-	-	-	n	d	-
 στέγων	στέγω	27	v	-	s	p	p	a	m	n	-
@@ -3174,7 +3174,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	19	u	-	-	-	-	-	-	-	-
 λύματα	λῦμα	20	n	-	p	-	-	-	n	a	-
 ,	,	21	u	-	-	-	-	-	-	-	-
-[δείματα]	δεῖμα	22	n	-	p	-	-	-	n	a	-
+[δείματα]	[δείματα]	22	n	-	p	-	-	-	n	a	-
 ἀμ		23	-	-	-	-	-	-	-	-	-
 -	-	24	u	-	-	-	-	-	-	-	-
 φάκει	ἀμφήκης	25	a	-	s	-	-	-	n	d	-
@@ -3185,7 +3185,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	30	u	-	-	-	-	-	-	-	-
 
 ἰὼ	ἰώ	1	i	-	-	-	-	-	-	-	-
-[ἰὼ]	ἰώ	2	i	-	-	-	-	-	-	-	-
+[ἰὼ]	[ἰὼ]	2	i	-	-	-	-	-	-	-	-
 μοῖρα	μοῖρα	3	n	-	s	-	-	-	f	v	-
 μοῖρα	μοῖρα	4	n	-	s	-	-	-	f	v	-
 ,	,	5	u	-	-	-	-	-	-	-	-
@@ -3431,7 +3431,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἤπειρον	ἤπειρος	5	n	-	s	-	-	-	f	a	-
 ἥξεις	ἥκω	6	v	2	s	f	i	a	-	-	-
 Ἀσιάδ̓	Ἀσιάς	7	n	-	s	-	-	-	f	a	-
-·.		8	-	-	-	-	-	-	-	-	-
+·.	·.	8	-	-	-	-	-	-	-	-	-
 
 ἆῤ	ἆρα	1	d	-	-	-	-	-	-	-	-
 ,	,	2	u	-	-	-	-	-	-	-	-
@@ -4251,7 +4251,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 σοφὸς	σοφός	2	a	-	s	-	-	-	m	n	-
 ἦ	ἦ	3	d	-	-	-	-	-	-	-	-
 σοφὸς	σοφός	4	a	-	s	-	-	-	m	n	-
-[ἦν]	εἰμί	5	v	1	s	i	i	a	-	-	-
+[ἦν]	[ἦν]	5	v	1	s	i	i	a	-	-	-
 ὃς	ὅς	6	p	-	s	-	-	-	m	n	-
 πρῶτος	πρῶτος	7	a	-	s	-	-	-	m	n	-
 ἐν	ἐν	8	r	-	-	-	-	-	-	-	-

@@ -268,7 +268,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οἰωνοπόλων	οἰωνοπόλος	6	n	-	p	-	-	-	m	g	-
 ἔγγαιος	ἐγγαιος	7	a	-	s	-	-	-	m	n	-
 οἶκτον	οἶκτος	8	n	-	s	-	-	-	m	a	-
-[οἰκτρὸν]	οἰκτρός	9	a	-	s	-	-	-	m	a	-
+[οἰκτρὸν]	[οἰκτρὸν]	9	a	-	s	-	-	-	m	a	-
 ἀίων	ἀίω	10	v	-	s	p	p	a	m	n	-
 ,	,	11	u	-	-	-	-	-	-	-	-
 δοξάσει	δοξάζω	12	v	3	s	f	i	a	-	-	-
@@ -524,7 +524,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἐμπρεπῆ	ἐμπρεπής	14	a	-	p	-	-	-	n	a	-
 ·	·	15	u	-	-	-	-	-	-	-	-
 
-[θρεομένη	θρέομαι	1	v	-	s	p	p	e	f	n	-
+[θρεομένη	[θρεομένη	1	v	-	s	p	p	e	f	n	-
 μέλη]	μέλη	2	n	-	s	-	-	-	f	n	-
 ζῶσα	ζάω	3	v	-	s	p	p	a	f	n	-
 γόοις	γόος	4	n	-	p	-	-	-	m	d	-
@@ -2110,7 +2110,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὖνπερ	οὖν	4	g	-	-	-	-	-	-	-	-
 ἱεροδόκα		5	-	-	-	-	-	-	-	-	-
 ?	?	6	u	-	-	-	-	-	-	-	-
-. .		7	-	-	-	-	-	-	-	-	-
+. .	. .	7	-	-	-	-	-	-	-	-	-
 
 θεῶν	θεός	1	n	-	p	-	-	-	m	g	-
 λήματ̓	λῆμα	2	n	-	p	-	-	-	n	n	-
@@ -2656,7 +2656,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μῦθος	μῦθος	10	n	-	s	-	-	-	m	n	-
 ἂν	ἄν	11	g	-	-	-	-	-	-	-	-
 θελκτήριος	θελκτήριος	12	a	-	s	-	-	-	m	n	-
-[ἀλγεινὰ	ἀλγεινός	13	a	-	p	-	-	-	n	a	-
+[ἀλγεινὰ	[ἀλγεινὰ	13	a	-	p	-	-	-	n	a	-
 θυμοῦ	θυμός	14	n	-	s	-	-	-	m	g	-
 κάρτα	κάρτα	15	d	-	-	-	-	-	-	-	-
 κινητήρια]	κινητήριος	16	a	-	p	-	-	-	n	a	-
@@ -3378,7 +3378,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 Κιλίκων	Κίλιξ	14	a	-	p	-	-	-	n	g	-
 Παμφύλων	πάμφυλος	15	a	-	p	-	-	-	n	g	-
 τε	τε	16	g	-	-	-	-	-	-	-	-
-[γένη]	γένος	17	n	-	p	-	-	-	n	a	-
+[γένη]	[γένη]	17	n	-	p	-	-	-	n	a	-
 διορνυμένα		18	-	-	-	-	-	-	-	-	-
 καί	καί	19	c	-	-	-	-	-	-	-	-
 ποταμοὺς	ποταμός	20	n	-	p	-	-	-	m	a	-
@@ -3806,7 +3806,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 πυρίφατον	πυρίφατος	2	a	-	s	-	-	-	f	a	-
 γᾶν	γῆ	3	n	-	s	-	-	-	f	a	-
 Πελασγίαν	πελασγικός	4	a	-	s	-	-	-	f	a	-
-[πόλιν]	πόλις	5	n	-	s	-	-	-	f	a	-
+[πόλιν]	[πόλιν]	5	n	-	s	-	-	-	f	a	-
 τὸν	ὁ	6	l	-	s	-	-	-	m	a	-
 ἄκορον	ἄκορος	7	a	-	s	-	-	-	m	a	-
 βοᾶς	βοή	8	n	-	s	-	-	-	f	g	-
@@ -3858,12 +3858,12 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 Δῖον	δῖος	13	a	-	s	-	-	-	m	a	-
 ἐπιδόμενοι	ἐπιδίδωμι	14	v	-	p	a	p	m	m	n	-
 πράκτορά	πράκτωρ	15	n	-	s	-	-	-	m	a	-
-[τε]	τε	16	g	-	-	-	-	-	-	-	-
+[τε]	[τε]	16	g	-	-	-	-	-	-	-	-
 σκοπὸν	σκοπός	17	n	-	s	-	-	-	m	a	-
 δυσπολέμητον	δυσπολέμητος	18	a	-	s	-	-	-	m	a	-
 ,	,	19	u	-	-	-	-	-	-	-	-
 ὃν	ὅς	20	p	-	s	-	-	-	m	a	-
-[οὐ]	οὐ	21	d	-	-	-	-	-	-	-	-
+[οὐ]	[οὐ]	21	d	-	-	-	-	-	-	-	-
 τίς	τίς	22	a	-	s	-	-	-	m	n	-
 ἂν	ἄν	23	g	-	-	-	-	-	-	-	-
 δόμος	δόμος	24	n	-	s	-	-	-	m	n	-
@@ -4778,7 +4778,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 κακῶν	κακός	8	a	-	p	-	-	-	n	g	-
 .	.	9	u	-	-	-	-	-	-	-	-
 
-[ἐλθέτω]	ἔρχομαι	1	v	3	s	a	m	a	-	-	-
+[ἐλθέτω]	[ἐλθέτω]	1	v	3	s	a	m	a	-	-	-
 ἐλθέτω	ἔρχομαι	2	v	3	s	a	m	a	-	-	-
 μόρος	μόρος	3	n	-	s	-	-	-	m	n	-
 ,	,	4	u	-	-	-	-	-	-	-	-
@@ -4899,9 +4899,9 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 
 ?	?	1	u	-	-	-	-	-	-	-	-
 ἰόφ		2	-	-	-	-	-	-	-	-	-
-..		3	-	-	-	-	-	-	-	-	-
+..	..	3	-	-	-	-	-	-	-	-	-
 ὀμ		4	-	-	-	-	-	-	-	-	-
-..		5	-	-	-	-	-	-	-	-	-
+..	..	5	-	-	-	-	-	-	-	-	-
 αὖθι		6	-	-	-	-	-	-	-	-	-
 κάκκας		7	-	-	-	-	-	-	-	-	-
 νυ		8	-	-	-	-	-	-	-	-	-
@@ -5073,7 +5073,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 βαθυμιτροκακὰ		3	-	-	-	-	-	-	-	-	-
 παθῶν		4	-	-	-	-	-	-	-	-	-
 ?	?	5	u	-	-	-	-	-	-	-	-
-[ὀλόμεναι	ὄλλυμι	6	v	-	p	a	p	m	f	n	-
+[ὀλόμεναι	[ὀλόμεναι	6	v	-	p	a	p	m	f	n	-
 παλάμαις]	παλάμη	7	n	-	p	-	-	-	f	d	-
 .	.	8	u	-	-	-	-	-	-	-	-
 
@@ -5109,7 +5109,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὑπερθορῇ	ὑπερθρῳσκω	5	v	2	s	f	i	e	-	-	-
 .	.	6	u	-	-	-	-	-	-	-	-
 
-[ἴυζε	ἰύζω	1	v	2	s	p	m	a	-	-	-
+[ἴυζε	[ἴυζε	1	v	2	s	p	m	a	-	-	-
 καὶ]	καί	2	c	-	-	-	-	-	-	-	-
 βόα	βοάω	3	v	2	s	p	m	a	-	-	-
 ,	,	4	u	-	-	-	-	-	-	-	-
@@ -5184,7 +5184,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἄρος	ἄρος	6	n	-	s	-	-	-	n	n	-
 ἀτᾷ	ἀτάω	7	v	3	s	p	i	a	-	-	-
 μ̓	ἐγώ	8	p	-	s	-	-	-	m	a	-
-··		9	-	-	-	-	-	-	-	-	-
+··	··	9	-	-	-	-	-	-	-	-	-
 
 ἅλαδ̓	ἅλαδε	1	d	-	-	-	-	-	-	-	-
 ἄγει	ἄγω	2	v	3	s	p	i	a	-	-	-

@@ -633,7 +633,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 μὲν	μέν	5	d	-	-	-	-	-	-	-	-
 τὸ	ὁ	6	l	-	s	-	-	-	n	a	-
 μὴ	μή	7	c	-	-	-	-	-	-	-	-
-'	punct	8	u	-	-	-	-	-	-	-	-
+'	'	8	u	-	-	-	-	-	-	-	-
 δικεῖν	ἀδικέω	9	v	-	-	p	n	a	-	-	-
 ·	·	10	u	-	-	-	-	-	-	-	-
 
@@ -644,7 +644,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 καὶ	καί	5	c	-	-	-	-	-	-	-	-
 τὸ	ὁ	6	l	-	s	-	-	-	n	a	-
 μὴ	μή	7	c	-	-	-	-	-	-	-	-
-'	punct	8	u	-	-	-	-	-	-	-	-
+'	'	8	u	-	-	-	-	-	-	-	-
 μελεῖν	ἀμελέω	9	v	-	-	p	n	a	-	-	-
 μάθε	μανθάνω	10	v	2	s	a	m	a	-	-	-
 .	.	11	u	-	-	-	-	-	-	-	-
@@ -1540,7 +1540,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 γυναικὶ	γυνή	5	n	-	s	-	-	-	f	d	-
 μόρσιμος	μόρσιμος	6	a	-	s	-	-	-	f	n	-
 ὅρκου	ὅρκος	7	n	-	s	-	-	-	m	g	-
-'	punct	8	u	-	-	-	-	-	-	-	-
+'	'	8	u	-	-	-	-	-	-	-	-
 στὶ	εἰμί	9	v	3	s	p	i	e	-	-	-
 μείζων	μέγας	10	a	-	s	-	-	-	f	n	c
 τῇ	ὁ	11	l	-	s	-	-	-	f	d	-
@@ -1825,7 +1825,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 λάθῃ	λανθάνω	10	v	3	s	a	s	a	-	-	-
 φύγδα	φύγδα	11	d	-	-	-	-	-	-	-	-
 βὰς	βαίνω	12	v	-	s	a	p	a	m	n	-
-[ὁ	ὁ	13	l	-	s	-	-	-	m	n	-
+[ὁ	[ὁ	13	l	-	s	-	-	-	m	n	-
 ]	]	14	u	-	-	-	-	-	-	-	-
 ματροφόνος	μητροφόνος	15	a	-	s	-	-	-	m	n	-
 ἀτίτας	ἀτίτης	16	n	-	s	-	-	-	m	n	-
@@ -1835,7 +1835,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δ'	δέ	2	d	-	-	-	-	-	-	-	-
 αὖτέ	αὖτε	3	d	-	-	-	-	-	-	-	-
 γ'	γε	4	d	-	-	-	-	-	-	-	-
-[οὖν]	οὖν	5	d	-	-	-	-	-	-	-	-
+[οὖν]	[οὖν]	5	d	-	-	-	-	-	-	-	-
 ἀλκὰν	ἀλκή	6	n	-	s	-	-	-	f	a	-
 ἔχων	ἔχω	7	v	-	s	p	p	a	m	n	-
 περὶ	περί	8	r	-	-	-	-	-	-	-	-
@@ -2465,7 +2465,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	9	u	-	-	-	-	-	-	-	-
 
 τοῖον	τοῖος	1	p	-	s	-	-	-	n	n	-
-[γὰρ]	γάρ	2	d	-	-	-	-	-	-	-	-
+[γὰρ]	[γὰρ]	2	d	-	-	-	-	-	-	-	-
 ἐπὶ	ἐπί	3	r	-	-	-	-	-	-	-	-
 κνέφας	κνέφας	4	n	-	s	-	-	-	n	n	-
 ἀνδρὶ	ἀνήρ	5	n	-	s	-	-	-	m	d	-
@@ -2608,7 +2608,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 αἰγίδος	αἰγίς	11	n	-	s	-	-	-	f	g	-
 .	.	12	u	-	-	-	-	-	-	-	-
 
-[πώλοις	πῶλος	1	n	-	p	-	-	-	m	d	-
+[πώλοις	[πώλοις	1	n	-	p	-	-	-	m	d	-
 ἀκμαίοις	ἀκμαῖος	2	a	-	p	-	-	-	m	d	-
 τόνδ'	ὅδε	3	p	-	s	-	-	-	m	a	-
 ἐπιζεύξασ'	ἐπιζεύγνυμι	4	v	-	s	a	p	a	f	n	-
@@ -3344,7 +3344,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 οὐ	οὐ	3	d	-	-	-	-	-	-	-	-
 βέβαια	βέβαιος	4	a	-	p	-	-	-	n	a	-
 τλάμων	τλήμων	5	a	-	s	-	-	-	m	n	-
-[δέ	δέ	6	d	-	-	-	-	-	-	-	-
+[δέ	[δέ	6	d	-	-	-	-	-	-	-	-
 τις	τις	7	p	-	s	-	-	-	m	n	-
 ]	]	8	u	-	-	-	-	-	-	-	-
 μάταν	μάτην	9	d	-	-	-	-	-	-	-	-
@@ -4608,7 +4608,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 αὐτῶν	αὐτός	21	p	-	p	-	-	-	m	g	-
 πολιτῶν	πολίτης	22	n	-	p	-	-	-	m	g	-
 μὴ	μή	23	d	-	-	-	-	-	-	-	-
-'	punct	24	u	-	-	-	-	-	-	-	-
+'	'	24	u	-	-	-	-	-	-	-	-
 πιχραινόντων	ἐπιχραίνω	25	v	-	p	p	p	a	m	g	-
 νόμους	νόμος	26	n	-	p	-	-	-	m	a	-
 κακαῖς	κακός	27	a	-	p	-	-	-	f	d	-
@@ -5019,7 +5019,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	7	u	-	-	-	-	-	-	-	-
 τὸ	ὁ	8	l	-	s	-	-	-	n	a	-
 μὴ	μή	9	c	-	-	-	-	-	-	-	-
-'	̓	10	u	-	-	-	-	-	-	-	-
+'	'	10	u	-	-	-	-	-	-	-	-
 δικεῖν	ἀδικέω	11	v	-	-	p	n	a	-	-	-
 σέβοντες	σέβω	12	v	-	p	p	p	a	m	n	-
 ἐν	ἐν	13	r	-	-	-	-	-	-	-	-
@@ -5465,7 +5465,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 γλώσσης	γλῶσσα	5	n	-	s	-	-	-	f	g	-
 ματαίας	μάταιος	6	a	-	s	-	-	-	f	g	-
 μὴ	μή	7	c	-	-	-	-	-	-	-	-
-'	punct	8	u	-	-	-	-	-	-	-	-
+'	'	8	u	-	-	-	-	-	-	-	-
 κβάλῃς	ἐκβάλλω	9	-	2	s	a	s	a	-	-	-
 ἔπη	ἔπος	10	n	-	p	-	-	-	n	a	-
 χθονί	χθών	11	n	-	s	-	-	-	f	d	-
@@ -6599,7 +6599,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 κεύθεσιν	κεῦθος	8	n	-	p	-	-	-	n	d	-
 ὠγυγίοισιν	̓ὠγύγιος	9	a	-	p	-	-	-	n	d	-
 ,	,	10	u	-	-	-	-	-	-	-	-
-[καὶ]	καί	11	c	-	-	-	-	-	-	-	-
+[καὶ]	[καὶ]	11	c	-	-	-	-	-	-	-	-
 τιμαῖς	τιμή	12	n	-	p	-	-	-	f	d	-
 καὶ	καί	13	c	-	-	-	-	-	-	-	-
 θυσίαις	θυσία	14	n	-	p	-	-	-	f	d	-

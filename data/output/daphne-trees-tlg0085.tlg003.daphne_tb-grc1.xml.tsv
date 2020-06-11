@@ -610,7 +610,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τε	τε	9	d	-	-	-	-	-	-	-	-
 τραχύτητα	τραχύτης	10	n	-	s	-	-	-	f	a	-
 μὴ	μή	11	d	-	-	-	-	-	-	-	-
-'	punct	12	u	-	-	-	-	-	-	-	-
+'	'	12	u	-	-	-	-	-	-	-	-
 πίπλησσέ	ἐπιπλήσσω	13	v	2	-	p	m	a	-	-	-
 μοι	ἐγώ	14	p	-	s	-	-	-	m	d	-
 .	.	15	u	-	-	-	-	-	-	-	-
@@ -743,7 +743,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τέρματα	τέρμα	5	n	-	p	-	-	-	n	a	-
 τῶνδ'	ὅδε	6	p	-	p	-	-	-	m	g	-
 ἐπιτεῖλαι	ἐπιτέλλω	7	v	-	-	a	n	a	-	-	-
-;	.	8	u	-	-	-	-	-	-	-	-
+;	;	8	u	-	-	-	-	-	-	-	-
 
 καίτοι	καίτοι	1	d	-	-	-	-	-	-	-	-
 τί	τίς	2	p	-	s	-	-	-	n	a	-
@@ -1286,7 +1286,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 
 ἀλλ'	ἀλλά	1	d	-	-	-	-	-	-	-	-
 ἔμπας	ἔμπας	2	d	-	-	-	-	-	-	-	-
-[ὀίω]	οἴομαι	3	v	1	s	p	i	a	-	-	-
+[ὀίω]	[ὀίω]	3	v	1	s	p	i	a	-	-	-
 μαλακογνώμων	μαλακογνώμων	4	a	-	s	-	-	-	m	n	-
 ἔσται	εἰμί	5	v	3	s	f	i	m	-	-	-
 ποθ'	ποτέ	6	d	-	-	-	-	-	-	-	-
@@ -2493,7 +2493,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ·	·	18	u	-	-	-	-	-	-	-	-
 
 πᾶσιν	πᾶς	1	p	-	p	-	-	-	m	d	-
-[ὅς]	ὅς	2	p	-	s	-	-	-	m	n	-
+[ὅς]	[ὅς]	2	p	-	s	-	-	-	m	n	-
 ἀντέστη	ἀνθίστημι	3	v	3	s	a	i	a	-	-	-
 θεοῖς	θεός	4	n	-	p	-	-	-	m	d	-
 ,	,	5	u	-	-	-	-	-	-	-	-
@@ -2932,10 +2932,10 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὑποστεγάζει	ὑποστεγάζω	25	v	3	s	p	i	a	-	-	-
 .	.	26	u	-	-	-	-	-	-	-	-
 
-<...>		1	u	-	-	-	-	-	-	-	-
+<...>	<...>	1	u	-	-	-	-	-	-	-	-
 βοᾷ	βοάω	2	v	3	s	p	i	a	-	-	-
 δὲ	δέ	3	d	-	-	-	-	-	-	-	-
-<...>		4	u	-	-	-	-	-	-	-	-
+<...>	<...>	4	u	-	-	-	-	-	-	-	-
 πόντιος	πόντιος	5	a	-	s	-	-	-	m	n	-
 κλύδων	κλύδων	6	n	-	s	-	-	-	m	n	-
 ξυμπίτνων	συμπίτνω	7	v	-	s	p	p	a	m	n	-
@@ -2990,7 +2990,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τίς	τίς	7	p	-	s	-	-	-	m	n	-
 ἄλλος	ἄλλος	8	p	-	s	-	-	-	m	n	-
 ἢ	ἤ	9	c	-	-	-	-	-	-	-	-
-'	punct	10	u	-	-	-	-	-	-	-	-
+'	'	10	u	-	-	-	-	-	-	-	-
 γὼ	ἐγώ	11	p	-	s	-	-	-	m	n	-
 παντελῶς	παντελής	12	d	-	-	-	-	-	-	-	-
 διώρισεν	διορίζω	13	v	3	s	a	i	a	-	-	-
@@ -4435,7 +4435,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 παῖ	παῖς	5	n	-	s	-	-	-	m	v	-
 ,	,	6	u	-	-	-	-	-	-	-	-
 μὴ	μή	7	d	-	-	-	-	-	-	-	-
-'	punct	8	u	-	-	-	-	-	-	-	-
+'	'	8	u	-	-	-	-	-	-	-	-
 πολακτίσῃς	ἀπολακτίζω	9	v	2	s	a	s	a	-	-	-
 λέχος	λέχος	10	n	-	s	-	-	-	n	a	-
 τὸ	ὁ	11	l	-	s	-	-	-	n	a	-
@@ -4713,7 +4713,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ,	,	19	u	-	-	-	-	-	-	-	-
 λύματα	λῦμα	20	n	-	p	-	-	-	n	a	-
 ,	,	21	u	-	-	-	-	-	-	-	-
-[δείματα]	δεῖμα	22	n	-	p	-	-	-	n	a	-
+[δείματα]	[δείματα]	22	n	-	p	-	-	-	n	a	-
 ἀμφάκει	ἀμφήκης	23	a	-	s	-	-	-	n	d	-
 κέντρῳ	κέντρον	24	n	-	s	-	-	-	n	d	-
 τύψειν	τύπτω	25	v	-	-	f	n	a	-	-	-
@@ -4722,7 +4722,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	28	u	-	-	-	-	-	-	-	-
 
 ἰὼ	ἰώ	1	i	-	-	-	-	-	-	-	-
-[ἰὼ]	ἰώ	2	i	-	-	-	-	-	-	-	-
+[ἰὼ]	[ἰὼ]	2	i	-	-	-	-	-	-	-	-
 μοῖρα	μοῖρα	3	n	-	s	-	-	-	f	v	-
 μοῖρα	μοῖρα	4	n	-	s	-	-	-	f	v	-
 ,	,	5	u	-	-	-	-	-	-	-	-
@@ -5011,7 +5011,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἤπειρον	ἤπειρος	5	n	-	s	-	-	-	f	a	-
 ἥξεις	ἥκω	6	v	2	s	f	i	a	-	-	-
 Ἀσιάδ'	Ἀσιάς	7	n	-	s	-	-	-	f	a	-
-·.		8	-	-	-	-	-	-	-	-	-
+·.	·.	8	-	-	-	-	-	-	-	-	-
 
 ἆρ'	ἆρα	1	d	-	-	-	-	-	-	-	-
 ,	,	2	u	-	-	-	-	-	-	-	-
@@ -5063,7 +5063,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 δόκει	δοκέω	8	v	2	s	p	m	a	-	-	-
 σοι	σύ	9	p	-	s	-	-	-	f	d	-
 μηδέπω	μηδέπω	10	d	-	-	-	-	-	-	-	-
-'	punct	11	u	-	-	-	-	-	-	-	-
+'	'	11	u	-	-	-	-	-	-	-	-
 ν	ἐν	12	r	-	-	-	-	-	-	-	-
 προοιμίοις	προοίμιον	13	n	-	p	-	-	-	n	d	-
 .	.	14	u	-	-	-	-	-	-	-	-
@@ -5341,7 +5341,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	8	u	-	-	-	-	-	-	-	-
 
 ἦ	ἦ	1	d	-	-	-	-	-	-	-	-
-'	punct	2	u	-	-	-	-	-	-	-	-
+'	'	2	u	-	-	-	-	-	-	-	-
 μὸς	ἐμός	3	p	-	s	-	-	-	m	n	-
 παῖς	παῖς	4	n	-	s	-	-	-	m	n	-
 σ'	σύ	5	p	-	s	-	-	-	m	a	-
@@ -6173,7 +6173,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 σοφὸς	σοφός	2	a	-	s	-	-	-	m	n	-
 ἦ	ἦ	3	d	-	-	-	-	-	-	-	-
 σοφὸς	σοφός	4	a	-	s	-	-	-	m	n	-
-[ἦν]	εἰμί	5	v	1	s	i	i	a	-	-	-
+[ἦν]	[ἦν]	5	v	1	s	i	i	a	-	-	-
 ὃς	ὅς	6	p	-	s	-	-	-	m	n	-
 πρῶτος	πρῶτος	7	a	-	s	-	-	-	m	n	-
 ἐν	ἐν	8	r	-	-	-	-	-	-	-	-

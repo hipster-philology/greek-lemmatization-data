@@ -3986,7 +3986,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ἥδιστος	ἡδύς	6	a	-	s	-	-	-	m	n	-
 βίος	βίος	7	n	-	s	-	-	-	m	n	-
 ,	,	8	u	-	-	-	-	-	-	-	-
-[τὸ	ὁ	9	l	-	s	-	-	-	n	n	-
+[τὸ	[τὸ	9	l	-	s	-	-	-	n	n	-
 μὴ	μή	10	d	-	-	-	-	-	-	-	-
 φρονεῖν	φρονέω	11	v	-	-	p	n	a	-	-	-
 γὰρ	γάρ	12	c	-	-	-	-	-	-	-	-
@@ -4123,7 +4123,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 γηροβοσκὸς	γηροβοσκός	41	a	-	s	-	-	-	m	n	-
 εἰσαεί	εἰσαεί	42	d	-	-	-	-	-	-	-	-
 ,	,	43	u	-	-	-	-	-	-	-	-
-[μέχρις	μέχρι	44	c	-	-	-	-	-	-	-	-
+[μέχρις	[μέχρις	44	c	-	-	-	-	-	-	-	-
 οὗ	ὅς	45	p	-	s	-	-	-	m	g	-
 μυχοὺς	μυχός	46	n	-	p	-	-	-	m	a	-
 κίχωσι	κιχάνω	47	v	3	p	a	s	a	-	-	-
@@ -5789,7 +5789,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ποδῶν	πούς	5	n	-	p	-	-	-	m	g	-
 ἅμ'	ἅμα	6	d	-	-	-	-	-	-	-	-
 ἕψεται	ἕπομαι	7	v	3	s	f	i	m	-	-	-
-.	,	8	u	-	-	-	-	-	-	-	-
+.	.	8	u	-	-	-	-	-	-	-	-
 
 ὁ	ὁ	1	l	-	s	-	-	-	m	n	-
 μὲν	μέν	2	d	-	-	-	-	-	-	-	-
@@ -5970,7 +5970,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 ὡς	ὡς	25	c	-	-	-	-	-	-	-	-
 διόλλυμαι	διόλλυμι	26	v	1	s	p	i	e	-	-	-
 τάλας	τάλας	27	a	-	s	-	-	-	m	n	-
-[	,	28	u	-	-	-	-	-	-	-	-
+[	[	28	u	-	-	-	-	-	-	-	-
 καί	καί	29	c	-	-	-	-	-	-	-	-
 σφας	σφεῖς	30	p	-	p	-	-	-	m	a	-
 κακοὺς	κακός	31	a	-	p	-	-	-	m	a	-
@@ -6079,7 +6079,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τινί	τις	14	p	-	s	-	-	-	n	d	-
 .	.	15	u	-	-	-	-	-	-	-	-
 
-[	,	1	u	-	-	-	-	-	-	-	-
+[	[	1	u	-	-	-	-	-	-	-	-
 ὦ	ὦ	2	i	-	-	-	-	-	-	-	-
 Θάνατε	θάνατος	3	n	-	s	-	-	-	m	v	-
 Θάνατε	θάνατος	4	n	-	s	-	-	-	m	v	-
@@ -6091,7 +6091,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	10	u	-	-	-	-	-	-	-	-
 ]	]	11	u	-	-	-	-	-	-	-	-
 
-[	,	1	u	-	-	-	-	-	-	-	-
+[	[	1	u	-	-	-	-	-	-	-	-
 καίτοι	καίτοι	2	d	-	-	-	-	-	-	-	-
 σὲ	σύ	3	p	-	s	-	-	-	m	a	-
 μὲν	μέν	4	d	-	-	-	-	-	-	-	-
@@ -6102,7 +6102,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 .	.	9	u	-	-	-	-	-	-	-	-
 ]	]	10	u	-	-	-	-	-	-	-	-
 
-[	,	1	u	-	-	-	-	-	-	-	-
+[	[	1	u	-	-	-	-	-	-	-	-
 σὲ	σύ	2	p	-	s	-	-	-	n	a	-
 δ'	δέ	3	d	-	-	-	-	-	-	-	-
 ,	,	4	u	-	-	-	-	-	-	-	-
@@ -10253,7 +10253,7 @@ form	lemma	id	pos	pers	num	tense	mood	voice	gend	case	degree
 τῷ	ὁ	18	l	-	s	-	-	-	m	d	-
 πάντ'	πᾶς	19	p	-	p	-	-	-	n	a	-
 ἀγαθῷ	ἀγαθός	20	a	-	s	-	-	-	m	d	-
-[	]	21	u	-	-	-	-	-	-	-	-
+[	[	21	u	-	-	-	-	-	-	-	-
 κ	καί	22	c	-	-	-	-	-	-	-	-
 οὐδενί	οὐδείς	23	p	-	s	-	-	-	-	d	-
 πω	πω	24	d	-	-	-	-	-	-	-	-
