@@ -1,8 +1,39 @@
-# Greek Lemmatization and Morpho-Syntactic Data
+# Ancient Greek Lemmatization and Morpho-Syntactic Data
 
 ## Referentials
 
 Lemma are from the *Henry George Liddell, Robert Scott, A Greek-English Lexicon*
+
+## Scores
+
+### POS
+
+|                  | accuracy | precision | recall | support |
+|------------------|----------|-----------|--------|---------|
+| all              | 0.9515   | 0.7776    | 0.7375 | 71235   |
+| known-tokens     | 0.9555   | 0.7663    | 0.73   | 66241   |
+| unknown-tokens   | 0.8989   | 0.5279    | 0.5096 | 4994    |
+| ambiguous-tokens | 0.9244   | 0.7384    | 0.7169 | 35332   |
+
+### Lemma
+
+|                  | accuracy | precision | recall | support |
+|------------------|----------|-----------|--------|---------|
+| all              | 0.9592   | 0.7938    | 0.7904 | 71235   |
+| known-tokens     | 0.9704   | 0.8963    | 0.8994 | 66241   |
+| unknown-tokens   | 0.8106   | 0.6406    | 0.6321 | 4994    |
+| ambiguous-tokens | 0.9272   | 0.5782    | 0.6005 | 22879   |
+
+### Lemma without diacritics
+
+|                  | accuracy | precision | recall | support |
+|------------------|----------|-----------|--------|---------|
+| all              | 0.9613   | 0.8275    | 0.824  | 71235   |
+| known-tokens     | 0.9714   | 0.9185    | 0.9199 | 66241   |
+| unknown-tokens   | 0.827    | 0.6787    | 0.672  | 4994    |
+| ambiguous-tokens | 0.9301   | 0.6609    | 0.6707 | 21002   |
+| unknown-targets  | 0.9497   | 0.8259    | 0.8223 | 51804   |
+
 
 ## Script
 
@@ -46,7 +77,9 @@ Mozilla Public Licence
 
 91 chars found
 
+
 | Char | Count |
+| ---- | ----- |
 |   | 7743 |
 | " | 4219 |
 | % | 4 |
@@ -138,3 +171,4 @@ Mozilla Public Licence
 | “ | 4 |
 | † | 74 |
 | ⏑ | 4 |
+
