@@ -1,0 +1,85 @@
+{
+   "modelname":"greek-num",
+   "modelpath":"./models/",
+   "run_test":false,
+   "input_path":"./splits/train/*.tsv",
+   "test_path":"./splits/test/*.tsv",
+   "dev_path":"./splits/dev/*.tsv",
+   "header":true,
+   "sep":"\t",
+   "breakline_ref":"pos",
+   "breakline_data":".",
+   "char_max_size":500,
+   "word_max_size":20000,
+   "max_sent_len":35,
+   "utfnorm": true,
+   "max_sents":1000000,
+   "char_lower": false,
+   "char_min_freq":1,
+   "word_min_freq":1,
+   "char_eos":true,
+   "char_bos":true,
+   "tasks":[
+      {
+         "name": "num",
+         "target":true
+      }
+   ],
+   "task_defaults":{
+      "level":"token",
+      "layer":-1,
+      "decoder":"linear",
+      "context":"sentence"
+   },
+   "threshold":0.0005,
+   "min_weight":0.2,
+   "include_lm":true,
+   "lm_shared_softmax":true,
+   "lm_schedule":{
+      "patience":2,
+      "factor":0.5,
+      "weight":0.2,
+      "mode":"min"
+   },
+   "batch_size":200,
+   "epochs":100,
+   "word_dropout":0,
+
+   "clip_norm":5,
+   "linear_layers":1,
+   "hidden_size":300,
+   "num_layers":1,
+   "cell":"LSTM",
+   "wemb_dim":0,
+   "merge_type":"concat",
+   "cemb_dim":150,
+   "cemb_type":"rnn",
+   "cemb_layers":2,
+   "custom_cemb_cell":false,
+   "checks_per_epoch":1,
+   "report_freq":200,
+   "verbose":true,
+   "device":"cuda",
+   "buffer_size":10000,
+   "minimize_pad":false,
+   "shuffle":true,
+   "pretrain_embeddings":false,
+   "load_pretrained_embeddings":"",
+   "load_pretrained_encoder":"",
+   "freeze_embeddings":false,
+   "scorer":"general",
+      // <-- Optuna best params
+
+   "dropout":0.25,
+   "lr":0.0005,
+   "lr_patience":7,
+   "patience":11,
+   "factor":0.6,
+
+   "optimizer": "Ranger",
+   "lr_scheduler": "CosineAnnealingLR", // LR Scheduler to use: ReduceLROnPlateau,
+   "lr_delayed": 5,
+   "min_lr": 0.000001, // minimum learning rate
+   // CosineAnnealingLR parameters
+   "lr_T_max": 30
+}

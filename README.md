@@ -6,33 +6,22 @@ Lemma are from the *Henry George Liddell, Robert Scott, A Greek-English Lexicon*
 
 ## Scores
 
-### POS
+Models are available in [releases](https://github.com/hipster-philology/greek-lemmatization-data/releases/latest).
 
-|                  | accuracy | precision | recall | support |
-|------------------|----------|-----------|--------|---------|
-| all              | 0.9515   | 0.7776    | 0.7375 | 71235   |
-| known-tokens     | 0.9555   | 0.7663    | 0.73   | 66241   |
-| unknown-tokens   | 0.8989   | 0.5279    | 0.5096 | 4994    |
-| ambiguous-tokens | 0.9244   | 0.7384    | 0.7169 | 35332   |
+### Summary
 
-### Lemma
-
-|                  | accuracy | precision | recall | support |
-|------------------|----------|-----------|--------|---------|
-| all              | 0.9592   | 0.7938    | 0.7904 | 71235   |
-| known-tokens     | 0.9704   | 0.8963    | 0.8994 | 66241   |
-| unknown-tokens   | 0.8106   | 0.6406    | 0.6321 | 4994    |
-| ambiguous-tokens | 0.9272   | 0.5782    | 0.6005 | 22879   |
-
-### Lemma without diacritics
-
-|                  | accuracy | precision | recall | support |
-|------------------|----------|-----------|--------|---------|
-| all              | 0.9613   | 0.8275    | 0.824  | 71235   |
-| known-tokens     | 0.9714   | 0.9185    | 0.9199 | 66241   |
-| unknown-tokens   | 0.827    | 0.6787    | 0.672  | 4994    |
-| ambiguous-tokens | 0.9301   | 0.6609    | 0.6707 | 21002   |
-| unknown-targets  | 0.9497   | 0.8259    | 0.8223 | 51804   |
+| task   | Accuracy | Accuracy Ambiguous |
+|--------|----------|--------------------|
+| [case](./scores.md/#case)   | 0.9612   | 0.8854             |
+| [degree](./scores.md/#degree) | 0.9926   | 0.9596             |
+| [gender](./scores.md/#gender)   | 0.9436   | 0.8296             |
+| [lemma](./scores.md/#lemma)  | 0.954    | 0.9097             |
+| [mood](./scores.md/#mood)   | 0.9913   | 0.957              |
+| [num](./scores.md/#number)    | 0.9841   | 0.9589             |
+| [pers](./scores.md/#person)   | 0.9864   | 0.9219             |
+| [pos](./scores.md/#pos)    | 0.9287   | 0.8805             |
+| [tense](./scores.md/#tense)  | 0.9917   | 0.9588             |
+| [voice](./scores.md/#voice)  | 0.9915   | 0.9606             |
 
 
 ## Script
